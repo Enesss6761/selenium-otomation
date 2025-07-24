@@ -10,7 +10,6 @@ Feature: User can login the Yemekpay BO App
 
   @login
   Scenario: Login to Yemekpay
-    And User verify otp code
     And User welcome to MainPage
 
   @resenOTP
@@ -20,7 +19,6 @@ Feature: User can login the Yemekpay BO App
 
   @logout1
   Scenario: Logout to Yemekpay 1
-    And User verify otp code
     And User click mainpage profile icon
     And User click mainpage logout button
     When User click mainpage logout confirm button
@@ -28,7 +26,6 @@ Feature: User can login the Yemekpay BO App
 
   @logout2
   Scenario: Logout to Yemekpay 2
-    And User verify otp code
     And User click mainpage profile icon
     When User click profilpage button
     And User click profilpage logout button
