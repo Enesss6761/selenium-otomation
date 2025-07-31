@@ -3,8 +3,8 @@ Feature: User can login the Yemekpay BO App
   As a user I want to login to Yemekpay Backoffice
 
   Background:
-    Given User opens Yemekpay BO Url
-    And User see welcome button
+    Given User opens Yemeksepeti URL
+    And User see Yemeksepeti Text
     And User click welcome button
     And User logins from homepage
 

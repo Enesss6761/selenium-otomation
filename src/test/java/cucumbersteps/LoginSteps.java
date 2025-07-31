@@ -1,5 +1,7 @@
 package cucumbersteps;
 
+import io.cucumber.java.en.And;
+import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 import net.thucydides.core.annotations.Steps;
@@ -33,5 +35,14 @@ public class LoginSteps {
     @Then("User see otp timer")
     public void userSeeOtpTimer() {
         loginpagesteps.userSeeOtpTimer();
+    }
+
+    @Given("User opens Yemeksepeti URL")
+    public void userOpensYemeksepetiURL() {
+        
+    }
+
+    @And("User see Yemeksepeti Text")
+    public void userSeeYemeksepetiText() {
     }
 }
