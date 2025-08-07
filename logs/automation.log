@@ -1157,3 +1157,29 @@ java.net.SocketException: Connection reset
 15:48:45.681 [main] INFO  base.BasePage - 1 saniye bekliyor
 15:48:46.757 [main] INFO  base.BasePage - 1 saniye bekliyor
 15:48:47.763 [main] INFO  base.BasePage - 200 saniye bekliyor
+16:30:50.053 [main] INFO  n.s.c.w.d.ChromeDriverProvider - Using automatically driver download
+16:30:51.258 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+16:30:51.269 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/enes.ercebi/.cache/selenium/chromedriver/mac-arm64/138.0.7204.183/chromedriver
+16:30:51.342 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Instantiating driver
+16:30:51.342 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, base.url: https://www.yemeksepeti.com/, browserName: chrome, chrome.driver: /usr/local/bin/chromedriver, driver: chrome, goog:chromeOptions: {args: [--remote-allow-origins=*, --start-maximized], extensions: []}, timeouts.implicitlywait: 20000, wait.for.timeout: 20000}
+16:31:00.285 [main] INFO  base.BasePage - 1 saniye bekliyor
+16:31:01.320 [main] INFO  base.BasePage - 1 saniye bekliyor
+16:31:02.357 [main] INFO  base.BasePage - 1 saniye bekliyor
+16:31:03.505 [main] INFO  base.BasePage - 1 saniye bekliyor
+16:31:04.651 [main] INFO  base.BasePage - 1 saniye bekliyor
+16:31:05.747 [main] INFO  base.BasePage - 1 saniye bekliyor
+16:31:38.143 [main] INFO  n.s.c.w.d.ChromeDriverProvider - Using automatically driver download
+16:31:38.850 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+16:31:38.863 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/enes.ercebi/.cache/selenium/chromedriver/mac-arm64/138.0.7204.183/chromedriver
+16:31:38.948 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Instantiating driver
+16:31:38.948 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, base.url: https://www.yemeksepeti.com/, browserName: chrome, chrome.driver: /usr/local/bin/chromedriver, driver: chrome, goog:chromeOptions: {args: [--remote-allow-origins=*, --start-maximized], extensions: []}, timeouts.implicitlywait: 20000, wait.for.timeout: 20000}
+16:32:14.789 [main] INFO  n.s.c.w.d.ChromeDriverProvider - Using automatically driver download
+16:32:15.472 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+16:32:15.482 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/enes.ercebi/.cache/selenium/chromedriver/mac-arm64/138.0.7204.183/chromedriver
+16:32:15.582 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Instantiating driver
+16:32:15.582 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, base.url: https://www.yemeksepeti.com/, browserName: chrome, chrome.driver: /usr/local/bin/chromedriver, driver: chrome, goog:chromeOptions: {args: [--remote-allow-origins=*, --start-maximized], extensions: []}, timeouts.implicitlywait: 20000, wait.for.timeout: 20000}
+16:32:51.816 [main] INFO  n.s.c.w.d.ChromeDriverProvider - Using automatically driver download
+16:32:52.493 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+16:32:52.504 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/enes.ercebi/.cache/selenium/chromedriver/mac-arm64/138.0.7204.183/chromedriver
+16:32:52.601 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Instantiating driver
+16:32:52.601 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, base.url: https://www.yemeksepeti.com/, browserName: chrome, chrome.driver: /usr/local/bin/chromedriver, driver: chrome, goog:chromeOptions: {args: [--remote-allow-origins=*, --start-maximized], extensions: []}, timeouts.implicitlywait: 20000, wait.for.timeout: 20000}
