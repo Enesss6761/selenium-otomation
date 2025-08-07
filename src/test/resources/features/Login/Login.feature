@@ -18,7 +18,7 @@ Feature: User can login the Yemekpay BO App
     And User enters password "Enes6761."
     And User accepts cookie if visible
     And User clicks on login with password button
-
+    And User clicks on login with password button
 
   Scenario: Add Product to cart
     Then User enters postal code "67500"
