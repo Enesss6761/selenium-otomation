@@ -1,0 +1,1159 @@
+16:09:21.111 [main] INFO  i.c.core.plugin.SerenityReporter - Running feature from file:///Users/enes.ercebi/IdeaProjects/yemeksepeti-selenium-automation/src/test/resources/features/Login/Login.feature
+16:09:21.135 [main] INFO   - 
+
+-------------------------------------------------------------------------------------
+     _______. _______ .______       _______ .__   __.  __  .___________.____    ____ 
+    /       ||   ____||   _  \     |   ____||  \ |  | |  | |           |\   \  /   / 
+   |   (----`|  |__   |  |_)  |    |  |__   |   \|  | |  | `---|  |----` \   \/   /  
+    \   \    |   __|  |      /     |   __|  |  . `  | |  |     |  |       \_    _/   
+.----)   |   |  |____ |  |\  \----.|  |____ |  |\   | |  |     |  |         |  |     
+|_______/    |_______|| _| `._____||_______||__| \__| |__|     |__|         |__|    
+                                                                                     
+ News and tutorials at http://www.serenity-bdd.info                                  
+ Documentation at https://wakaleo.gitbooks.io/the-serenity-book/content/             
+ Join the Serenity Community on Gitter: https://gitter.im/serenity-bdd/serenity-core 
+ Serenity BDD Support and Training at http://serenity-bdd.info/#/trainingandsupport  
+-------------------------------------------------------------------------------------
+
+16:09:21.137 [main] INFO   - Test Suite Started: User can login the Yemekpay BO App
+16:09:40.441 [main] INFO  n.s.c.w.d.ChromeDriverProvider - Using automatically driver download
+16:09:41.169 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+16:09:41.183 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/enes.ercebi/.cache/selenium/chromedriver/mac-arm64/138.0.7204.183/chromedriver
+16:09:41.267 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Instantiating driver
+16:09:41.267 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, base.url: https://www.yemeksepeti.com/, browserName: chrome, chrome.driver: /usr/local/bin/chromedriver, driver: chrome, goog:chromeOptions: {args: [--remote-allow-origins=*, --start-maximized], extensions: []}, timeouts.implicitlywait: 20000, wait.for.timeout: 20000}
+16:33:11.208 [main] INFO  i.c.core.plugin.SerenityReporter - Running feature from file:///Users/enes.ercebi/IdeaProjects/yemeksepeti-selenium-automation/src/test/resources/features/Login/Login.feature
+16:33:11.233 [main] INFO   - 
+
+-------------------------------------------------------------------------------------
+     _______. _______ .______       _______ .__   __.  __  .___________.____    ____ 
+    /       ||   ____||   _  \     |   ____||  \ |  | |  | |           |\   \  /   / 
+   |   (----`|  |__   |  |_)  |    |  |__   |   \|  | |  | `---|  |----` \   \/   /  
+    \   \    |   __|  |      /     |   __|  |  . `  | |  |     |  |       \_    _/   
+.----)   |   |  |____ |  |\  \----.|  |____ |  |\   | |  |     |  |         |  |     
+|_______/    |_______|| _| `._____||_______||__| \__| |__|     |__|         |__|    
+                                                                                     
+ News and tutorials at http://www.serenity-bdd.info                                  
+ Documentation at https://wakaleo.gitbooks.io/the-serenity-book/content/             
+ Join the Serenity Community on Gitter: https://gitter.im/serenity-bdd/serenity-core 
+ Serenity BDD Support and Training at http://serenity-bdd.info/#/trainingandsupport  
+-------------------------------------------------------------------------------------
+
+16:33:11.235 [main] INFO   - Test Suite Started: User can login the Yemekpay BO App
+16:33:43.139 [main] INFO  n.s.c.w.d.ChromeDriverProvider - Using automatically driver download
+16:33:43.837 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+16:33:43.852 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/enes.ercebi/.cache/selenium/chromedriver/mac-arm64/138.0.7204.183/chromedriver
+16:33:43.932 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Instantiating driver
+16:33:43.932 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, base.url: https://www.yemeksepeti.com/, browserName: chrome, chrome.driver: /usr/local/bin/chromedriver, driver: chrome, goog:chromeOptions: {args: [--remote-allow-origins=*, --start-maximized], extensions: []}, timeouts.implicitlywait: 20000, wait.for.timeout: 20000}
+22:29:04.619 [main] INFO  n.s.c.w.d.ChromeDriverProvider - Using automatically driver download
+22:29:06.150 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+22:29:06.161 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/enes.ercebi/.cache/selenium/chromedriver/mac-arm64/138.0.7204.183/chromedriver
+22:29:06.231 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Instantiating driver
+22:29:06.231 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, base.url: https://www.yemeksepeti.com/, browserName: chrome, chrome.driver: /usr/local/bin/chromedriver, driver: chrome, goog:chromeOptions: {args: [--remote-allow-origins=*, --start-maximized], extensions: []}, timeouts.implicitlywait: 20000, wait.for.timeout: 20000}
+22:32:29.052 [main] INFO  n.s.c.w.d.ChromeDriverProvider - Using automatically driver download
+22:32:29.730 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+22:32:29.741 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/enes.ercebi/.cache/selenium/chromedriver/mac-arm64/138.0.7204.183/chromedriver
+22:32:29.828 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Instantiating driver
+22:32:29.828 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, base.url: https://www.yemeksepeti.com/, browserName: chrome, chrome.driver: /usr/local/bin/chromedriver, driver: chrome, goog:chromeOptions: {args: [--remote-allow-origins=*, --start-maximized], extensions: []}, timeouts.implicitlywait: 20000, wait.for.timeout: 20000}
+23:08:57.397 [main] INFO  n.s.c.w.d.ChromeDriverProvider - Using automatically driver download
+23:08:58.113 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+23:08:58.126 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/enes.ercebi/.cache/selenium/chromedriver/mac-arm64/138.0.7204.183/chromedriver
+23:08:58.212 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Instantiating driver
+23:08:58.213 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, base.url: https://www.yemeksepeti.com/, browserName: chrome, chrome.driver: /usr/local/bin/chromedriver, driver: chrome, goog:chromeOptions: {args: [--remote-allow-origins=*, --start-maximized], extensions: []}, timeouts.implicitlywait: 20000, wait.for.timeout: 20000}
+01:13:25.077 [main] INFO  n.s.c.w.d.ChromeDriverProvider - Using automatically driver download
+01:13:26.550 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+01:13:26.564 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/enes.ercebi/.cache/selenium/chromedriver/mac-arm64/138.0.7204.183/chromedriver
+01:13:26.633 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Instantiating driver
+01:13:26.633 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, base.url: https://www.yemeksepeti.com/, browserName: chrome, chrome.driver: /usr/local/bin/chromedriver, driver: chrome, goog:chromeOptions: {args: [--remote-allow-origins=*, --start-maximized], extensions: []}, timeouts.implicitlywait: 20000, wait.for.timeout: 20000}
+14:38:54.899 [main] INFO  i.c.core.plugin.SerenityReporter - Running feature from file:///Users/enes.ercebi/IdeaProjects/yemeksepeti-selenium-automation/src/test/resources/features/Login/Login.feature
+14:38:54.923 [main] INFO   - 
+
+-------------------------------------------------------------------------------------
+     _______. _______ .______       _______ .__   __.  __  .___________.____    ____ 
+    /       ||   ____||   _  \     |   ____||  \ |  | |  | |           |\   \  /   / 
+   |   (----`|  |__   |  |_)  |    |  |__   |   \|  | |  | `---|  |----` \   \/   /  
+    \   \    |   __|  |      /     |   __|  |  . `  | |  |     |  |       \_    _/   
+.----)   |   |  |____ |  |\  \----.|  |____ |  |\   | |  |     |  |         |  |     
+|_______/    |_______|| _| `._____||_______||__| \__| |__|     |__|         |__|    
+                                                                                     
+ News and tutorials at http://www.serenity-bdd.info                                  
+ Documentation at https://wakaleo.gitbooks.io/the-serenity-book/content/             
+ Join the Serenity Community on Gitter: https://gitter.im/serenity-bdd/serenity-core 
+ Serenity BDD Support and Training at http://serenity-bdd.info/#/trainingandsupport  
+-------------------------------------------------------------------------------------
+
+14:38:54.925 [main] INFO   - Test Suite Started: User can login the Yemekpay BO App
+14:39:07.041 [main] INFO  n.s.c.w.d.ChromeDriverProvider - Using automatically driver download
+14:39:08.176 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+14:39:08.185 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/enes.ercebi/.cache/selenium/chromedriver/mac-arm64/138.0.7204.183/chromedriver
+14:39:08.261 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Instantiating driver
+14:39:08.261 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, base.url: https://www.yemeksepeti.com/, browserName: chrome, chrome.driver: /usr/local/bin/chromedriver, driver: chrome, goog:chromeOptions: {args: [--remote-allow-origins=*, --start-maximized], extensions: []}, timeouts.implicitlywait: 20000, wait.for.timeout: 20000}
+14:41:37.096 [main] INFO  i.c.core.plugin.SerenityReporter - Running feature from file:///Users/enes.ercebi/IdeaProjects/yemeksepeti-selenium-automation/src/test/resources/features/Login/Login.feature
+14:41:37.119 [main] INFO   - 
+
+-------------------------------------------------------------------------------------
+     _______. _______ .______       _______ .__   __.  __  .___________.____    ____ 
+    /       ||   ____||   _  \     |   ____||  \ |  | |  | |           |\   \  /   / 
+   |   (----`|  |__   |  |_)  |    |  |__   |   \|  | |  | `---|  |----` \   \/   /  
+    \   \    |   __|  |      /     |   __|  |  . `  | |  |     |  |       \_    _/   
+.----)   |   |  |____ |  |\  \----.|  |____ |  |\   | |  |     |  |         |  |     
+|_______/    |_______|| _| `._____||_______||__| \__| |__|     |__|         |__|    
+                                                                                     
+ News and tutorials at http://www.serenity-bdd.info                                  
+ Documentation at https://wakaleo.gitbooks.io/the-serenity-book/content/             
+ Join the Serenity Community on Gitter: https://gitter.im/serenity-bdd/serenity-core 
+ Serenity BDD Support and Training at http://serenity-bdd.info/#/trainingandsupport  
+-------------------------------------------------------------------------------------
+
+14:41:37.121 [main] INFO   - Test Suite Started: User can login the Yemekpay BO App
+14:41:56.237 [main] INFO  n.s.c.w.d.ChromeDriverProvider - Using automatically driver download
+14:41:56.920 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+14:41:56.932 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/enes.ercebi/.cache/selenium/chromedriver/mac-arm64/138.0.7204.183/chromedriver
+14:41:57.020 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Instantiating driver
+14:41:57.020 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, base.url: https://www.yemeksepeti.com/, browserName: chrome, chrome.driver: /usr/local/bin/chromedriver, driver: chrome, goog:chromeOptions: {args: [--remote-allow-origins=*, --start-maximized], extensions: []}, timeouts.implicitlywait: 20000, wait.for.timeout: 20000}
+14:42:32.529 [main] INFO  n.s.c.w.d.ChromeDriverProvider - Using automatically driver download
+14:42:33.216 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+14:42:33.227 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/enes.ercebi/.cache/selenium/chromedriver/mac-arm64/138.0.7204.183/chromedriver
+14:42:33.311 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Instantiating driver
+14:42:33.311 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, base.url: https://www.yemeksepeti.com/, browserName: chrome, chrome.driver: /usr/local/bin/chromedriver, driver: chrome, goog:chromeOptions: {args: [--remote-allow-origins=*, --start-maximized], extensions: []}, timeouts.implicitlywait: 20000, wait.for.timeout: 20000}
+14:43:18.412 [main] INFO  n.s.c.w.d.ChromeDriverProvider - Using automatically driver download
+14:43:19.181 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+14:43:19.194 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/enes.ercebi/.cache/selenium/chromedriver/mac-arm64/138.0.7204.183/chromedriver
+14:43:19.277 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Instantiating driver
+14:43:19.277 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, base.url: https://www.yemeksepeti.com/, browserName: chrome, chrome.driver: /usr/local/bin/chromedriver, driver: chrome, goog:chromeOptions: {args: [--remote-allow-origins=*, --start-maximized], extensions: []}, timeouts.implicitlywait: 20000, wait.for.timeout: 20000}
+14:44:16.556 [main] INFO  n.s.c.w.d.ChromeDriverProvider - Using automatically driver download
+14:44:17.232 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+14:44:17.246 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/enes.ercebi/.cache/selenium/chromedriver/mac-arm64/138.0.7204.183/chromedriver
+14:44:17.330 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Instantiating driver
+14:44:17.330 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, base.url: https://www.yemeksepeti.com/, browserName: chrome, chrome.driver: /usr/local/bin/chromedriver, driver: chrome, goog:chromeOptions: {args: [--remote-allow-origins=*, --start-maximized], extensions: []}, timeouts.implicitlywait: 20000, wait.for.timeout: 20000}
+14:44:55.286 [main] INFO  n.s.c.w.d.ChromeDriverProvider - Using automatically driver download
+14:44:56.013 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+14:44:56.024 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/enes.ercebi/.cache/selenium/chromedriver/mac-arm64/138.0.7204.183/chromedriver
+14:44:56.100 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Instantiating driver
+14:44:56.100 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, base.url: https://www.yemeksepeti.com/, browserName: chrome, chrome.driver: /usr/local/bin/chromedriver, driver: chrome, goog:chromeOptions: {args: [--remote-allow-origins=*, --start-maximized], extensions: []}, timeouts.implicitlywait: 20000, wait.for.timeout: 20000}
+14:47:58.733 [main] INFO  i.c.core.plugin.SerenityReporter - Running feature from file:///Users/enes.ercebi/IdeaProjects/yemeksepeti-selenium-automation/src/test/resources/features/Login/Login.feature
+14:47:58.755 [main] INFO   - 
+
+-------------------------------------------------------------------------------------
+     _______. _______ .______       _______ .__   __.  __  .___________.____    ____ 
+    /       ||   ____||   _  \     |   ____||  \ |  | |  | |           |\   \  /   / 
+   |   (----`|  |__   |  |_)  |    |  |__   |   \|  | |  | `---|  |----` \   \/   /  
+    \   \    |   __|  |      /     |   __|  |  . `  | |  |     |  |       \_    _/   
+.----)   |   |  |____ |  |\  \----.|  |____ |  |\   | |  |     |  |         |  |     
+|_______/    |_______|| _| `._____||_______||__| \__| |__|     |__|         |__|    
+                                                                                     
+ News and tutorials at http://www.serenity-bdd.info                                  
+ Documentation at https://wakaleo.gitbooks.io/the-serenity-book/content/             
+ Join the Serenity Community on Gitter: https://gitter.im/serenity-bdd/serenity-core 
+ Serenity BDD Support and Training at http://serenity-bdd.info/#/trainingandsupport  
+-------------------------------------------------------------------------------------
+
+14:47:58.757 [main] INFO   - Test Suite Started: User can login the Yemekpay BO App
+14:48:35.150 [main] INFO  n.s.c.w.d.ChromeDriverProvider - Using automatically driver download
+14:48:35.829 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+14:48:35.842 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/enes.ercebi/.cache/selenium/chromedriver/mac-arm64/138.0.7204.183/chromedriver
+14:48:35.920 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Instantiating driver
+14:48:35.920 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, base.url: https://www.yemeksepeti.com/, browserName: chrome, chrome.driver: /usr/local/bin/chromedriver, driver: chrome, goog:chromeOptions: {args: [--remote-allow-origins=*, --start-maximized], extensions: []}, timeouts.implicitlywait: 20000, wait.for.timeout: 20000}
+14:48:44.509 [main] INFO  base.BasePage - 2 saniye bekliyor
+14:51:06.100 [main] INFO  n.s.c.w.d.ChromeDriverProvider - Using automatically driver download
+14:51:06.781 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+14:51:06.796 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/enes.ercebi/.cache/selenium/chromedriver/mac-arm64/138.0.7204.183/chromedriver
+14:51:06.912 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Instantiating driver
+14:51:06.913 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, base.url: https://www.yemeksepeti.com/, browserName: chrome, chrome.driver: /usr/local/bin/chromedriver, driver: chrome, goog:chromeOptions: {args: [--remote-allow-origins=*, --start-maximized], extensions: []}, timeouts.implicitlywait: 20000, wait.for.timeout: 20000}
+14:51:31.609 [main] INFO  n.s.c.w.d.ChromeDriverProvider - Using automatically driver download
+14:51:32.264 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+14:51:32.275 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/enes.ercebi/.cache/selenium/chromedriver/mac-arm64/138.0.7204.183/chromedriver
+14:51:32.345 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Instantiating driver
+14:51:32.345 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, base.url: https://www.yemeksepeti.com/, browserName: chrome, chrome.driver: /usr/local/bin/chromedriver, driver: chrome, goog:chromeOptions: {args: [--remote-allow-origins=*, --start-maximized], extensions: []}, timeouts.implicitlywait: 20000, wait.for.timeout: 20000}
+14:51:49.966 [main] INFO  base.BasePage - 2 saniye bekliyor
+14:54:34.350 [main] INFO  i.c.core.plugin.SerenityReporter - Running feature from file:///Users/enes.ercebi/IdeaProjects/yemeksepeti-selenium-automation/src/test/resources/features/Login/Login.feature
+14:54:34.373 [main] INFO   - 
+
+-------------------------------------------------------------------------------------
+     _______. _______ .______       _______ .__   __.  __  .___________.____    ____ 
+    /       ||   ____||   _  \     |   ____||  \ |  | |  | |           |\   \  /   / 
+   |   (----`|  |__   |  |_)  |    |  |__   |   \|  | |  | `---|  |----` \   \/   /  
+    \   \    |   __|  |      /     |   __|  |  . `  | |  |     |  |       \_    _/   
+.----)   |   |  |____ |  |\  \----.|  |____ |  |\   | |  |     |  |         |  |     
+|_______/    |_______|| _| `._____||_______||__| \__| |__|     |__|         |__|    
+                                                                                     
+ News and tutorials at http://www.serenity-bdd.info                                  
+ Documentation at https://wakaleo.gitbooks.io/the-serenity-book/content/             
+ Join the Serenity Community on Gitter: https://gitter.im/serenity-bdd/serenity-core 
+ Serenity BDD Support and Training at http://serenity-bdd.info/#/trainingandsupport  
+-------------------------------------------------------------------------------------
+
+14:54:34.374 [main] INFO   - Test Suite Started: User can login the Yemekpay BO App
+14:54:44.760 [main] INFO  n.s.c.w.d.ChromeDriverProvider - Using automatically driver download
+14:54:45.428 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+14:54:45.438 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/enes.ercebi/.cache/selenium/chromedriver/mac-arm64/138.0.7204.183/chromedriver
+14:54:45.514 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Instantiating driver
+14:54:45.514 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, base.url: https://www.yemeksepeti.com/, browserName: chrome, chrome.driver: /usr/local/bin/chromedriver, driver: chrome, goog:chromeOptions: {args: [--remote-allow-origins=*, --start-maximized], extensions: []}, timeouts.implicitlywait: 20000, wait.for.timeout: 20000}
+14:54:53.974 [main] INFO  base.BasePage - 2 saniye bekliyor
+23:54:27.383 [main] INFO  n.s.c.w.d.ChromeDriverProvider - Using automatically driver download
+23:54:28.545 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+23:54:28.553 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/enes.ercebi/.cache/selenium/chromedriver/mac-arm64/138.0.7204.183/chromedriver
+23:54:28.627 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Instantiating driver
+23:54:28.627 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, base.url: https://www.yemeksepeti.com/, browserName: chrome, chrome.driver: /usr/local/bin/chromedriver, driver: chrome, goog:chromeOptions: {args: [--remote-allow-origins=*, --start-maximized], extensions: []}, timeouts.implicitlywait: 20000, wait.for.timeout: 20000}
+23:54:36.661 [main] INFO  base.BasePage - 2 saniye bekliyor
+23:55:35.416 [main] INFO  n.s.c.w.d.ChromeDriverProvider - Using automatically driver download
+23:55:36.099 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+23:55:36.111 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/enes.ercebi/.cache/selenium/chromedriver/mac-arm64/138.0.7204.183/chromedriver
+23:55:36.187 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Instantiating driver
+23:55:36.187 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, base.url: https://www.yemeksepeti.com/, browserName: chrome, chrome.driver: /usr/local/bin/chromedriver, driver: chrome, goog:chromeOptions: {args: [--remote-allow-origins=*, --start-maximized], extensions: []}, timeouts.implicitlywait: 20000, wait.for.timeout: 20000}
+23:56:32.591 [main] INFO  n.s.c.w.d.ChromeDriverProvider - Using automatically driver download
+23:56:33.251 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+23:56:33.261 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/enes.ercebi/.cache/selenium/chromedriver/mac-arm64/138.0.7204.183/chromedriver
+23:56:33.336 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Instantiating driver
+23:56:33.336 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, base.url: https://www.yemeksepeti.com/, browserName: chrome, chrome.driver: /usr/local/bin/chromedriver, driver: chrome, goog:chromeOptions: {args: [--remote-allow-origins=*, --start-maximized], extensions: []}, timeouts.implicitlywait: 20000, wait.for.timeout: 20000}
+23:56:58.403 [main] INFO  i.c.core.plugin.SerenityReporter - Running feature from file:///Users/enes.ercebi/IdeaProjects/yemeksepeti-selenium-automation/src/test/resources/features/Login/Login.feature
+23:56:58.426 [main] INFO   - 
+
+-------------------------------------------------------------------------------------
+     _______. _______ .______       _______ .__   __.  __  .___________.____    ____ 
+    /       ||   ____||   _  \     |   ____||  \ |  | |  | |           |\   \  /   / 
+   |   (----`|  |__   |  |_)  |    |  |__   |   \|  | |  | `---|  |----` \   \/   /  
+    \   \    |   __|  |      /     |   __|  |  . `  | |  |     |  |       \_    _/   
+.----)   |   |  |____ |  |\  \----.|  |____ |  |\   | |  |     |  |         |  |     
+|_______/    |_______|| _| `._____||_______||__| \__| |__|     |__|         |__|    
+                                                                                     
+ News and tutorials at http://www.serenity-bdd.info                                  
+ Documentation at https://wakaleo.gitbooks.io/the-serenity-book/content/             
+ Join the Serenity Community on Gitter: https://gitter.im/serenity-bdd/serenity-core 
+ Serenity BDD Support and Training at http://serenity-bdd.info/#/trainingandsupport  
+-------------------------------------------------------------------------------------
+
+23:56:58.427 [main] INFO   - Test Suite Started: User can login the Yemekpay BO App
+23:57:37.425 [main] INFO  n.s.c.w.d.ChromeDriverProvider - Using automatically driver download
+23:57:38.063 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+23:57:38.072 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/enes.ercebi/.cache/selenium/chromedriver/mac-arm64/138.0.7204.183/chromedriver
+23:57:38.151 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Instantiating driver
+23:57:38.151 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, base.url: https://www.yemeksepeti.com/, browserName: chrome, chrome.driver: /usr/local/bin/chromedriver, driver: chrome, goog:chromeOptions: {args: [--remote-allow-origins=*, --start-maximized], extensions: []}, timeouts.implicitlywait: 20000, wait.for.timeout: 20000}
+01:30:31.477 [main] INFO  i.c.core.plugin.SerenityReporter - Running feature from file:///Users/enes.ercebi/IdeaProjects/yemeksepeti-selenium-automation/src/test/resources/features/Login/Login.feature
+01:30:31.500 [main] INFO   - 
+
+-------------------------------------------------------------------------------------
+     _______. _______ .______       _______ .__   __.  __  .___________.____    ____ 
+    /       ||   ____||   _  \     |   ____||  \ |  | |  | |           |\   \  /   / 
+   |   (----`|  |__   |  |_)  |    |  |__   |   \|  | |  | `---|  |----` \   \/   /  
+    \   \    |   __|  |      /     |   __|  |  . `  | |  |     |  |       \_    _/   
+.----)   |   |  |____ |  |\  \----.|  |____ |  |\   | |  |     |  |         |  |     
+|_______/    |_______|| _| `._____||_______||__| \__| |__|     |__|         |__|    
+                                                                                     
+ News and tutorials at http://www.serenity-bdd.info                                  
+ Documentation at https://wakaleo.gitbooks.io/the-serenity-book/content/             
+ Join the Serenity Community on Gitter: https://gitter.im/serenity-bdd/serenity-core 
+ Serenity BDD Support and Training at http://serenity-bdd.info/#/trainingandsupport  
+-------------------------------------------------------------------------------------
+
+01:30:31.502 [main] INFO   - Test Suite Started: User can login the Yemekpay BO App
+13:31:56.113 [main] INFO  i.c.core.plugin.SerenityReporter - Running feature from file:///Users/enes.ercebi/IdeaProjects/yemeksepeti-selenium-automation/src/test/resources/features/Login/Login.feature
+13:31:56.136 [main] INFO   - 
+
+-------------------------------------------------------------------------------------
+     _______. _______ .______       _______ .__   __.  __  .___________.____    ____ 
+    /       ||   ____||   _  \     |   ____||  \ |  | |  | |           |\   \  /   / 
+   |   (----`|  |__   |  |_)  |    |  |__   |   \|  | |  | `---|  |----` \   \/   /  
+    \   \    |   __|  |      /     |   __|  |  . `  | |  |     |  |       \_    _/   
+.----)   |   |  |____ |  |\  \----.|  |____ |  |\   | |  |     |  |         |  |     
+|_______/    |_______|| _| `._____||_______||__| \__| |__|     |__|         |__|    
+                                                                                     
+ News and tutorials at http://www.serenity-bdd.info                                  
+ Documentation at https://wakaleo.gitbooks.io/the-serenity-book/content/             
+ Join the Serenity Community on Gitter: https://gitter.im/serenity-bdd/serenity-core 
+ Serenity BDD Support and Training at http://serenity-bdd.info/#/trainingandsupport  
+-------------------------------------------------------------------------------------
+
+13:31:56.138 [main] INFO   - Test Suite Started: User can login the Yemekpay BO App
+13:32:12.928 [main] INFO  n.s.c.w.d.ChromeDriverProvider - Using automatically driver download
+13:32:14.372 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+13:32:14.386 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/enes.ercebi/.cache/selenium/chromedriver/mac-arm64/138.0.7204.183/chromedriver
+13:32:14.457 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Instantiating driver
+13:32:14.457 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, base.url: https://www.yemeksepeti.com/, browserName: chrome, chrome.driver: /usr/local/bin/chromedriver, driver: chrome, goog:chromeOptions: {args: [--remote-allow-origins=*, --start-maximized], extensions: []}, timeouts.implicitlywait: 20000, wait.for.timeout: 20000}
+13:32:22.639 [main] INFO  base.BasePage - 2 saniye bekliyor
+13:38:37.483 [main] INFO  i.c.core.plugin.SerenityReporter - Running feature from file:///Users/enes.ercebi/IdeaProjects/yemeksepeti-selenium-automation/src/test/resources/features/Login/Login.feature
+13:38:37.507 [main] INFO   - 
+
+-------------------------------------------------------------------------------------
+     _______. _______ .______       _______ .__   __.  __  .___________.____    ____ 
+    /       ||   ____||   _  \     |   ____||  \ |  | |  | |           |\   \  /   / 
+   |   (----`|  |__   |  |_)  |    |  |__   |   \|  | |  | `---|  |----` \   \/   /  
+    \   \    |   __|  |      /     |   __|  |  . `  | |  |     |  |       \_    _/   
+.----)   |   |  |____ |  |\  \----.|  |____ |  |\   | |  |     |  |         |  |     
+|_______/    |_______|| _| `._____||_______||__| \__| |__|     |__|         |__|    
+                                                                                     
+ News and tutorials at http://www.serenity-bdd.info                                  
+ Documentation at https://wakaleo.gitbooks.io/the-serenity-book/content/             
+ Join the Serenity Community on Gitter: https://gitter.im/serenity-bdd/serenity-core 
+ Serenity BDD Support and Training at http://serenity-bdd.info/#/trainingandsupport  
+-------------------------------------------------------------------------------------
+
+13:38:37.509 [main] INFO   - Test Suite Started: User can login the Yemekpay BO App
+13:38:48.641 [main] INFO  n.s.c.w.d.ChromeDriverProvider - Using automatically driver download
+13:38:49.291 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+13:38:49.302 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/enes.ercebi/.cache/selenium/chromedriver/mac-arm64/138.0.7204.183/chromedriver
+13:38:49.377 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Instantiating driver
+13:38:49.377 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, base.url: https://www.yemeksepeti.com/, browserName: chrome, chrome.driver: /usr/local/bin/chromedriver, driver: chrome, goog:chromeOptions: {args: [--remote-allow-origins=*, --start-maximized], extensions: []}, timeouts.implicitlywait: 20000, wait.for.timeout: 20000}
+13:40:20.568 [main] INFO  n.s.c.w.d.ChromeDriverProvider - Using automatically driver download
+13:40:21.217 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+13:40:21.230 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/enes.ercebi/.cache/selenium/chromedriver/mac-arm64/138.0.7204.183/chromedriver
+13:40:21.303 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Instantiating driver
+13:40:21.303 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, base.url: https://www.yemeksepeti.com/, browserName: chrome, chrome.driver: /usr/local/bin/chromedriver, driver: chrome, goog:chromeOptions: {args: [--remote-allow-origins=*, --start-maximized], extensions: []}, timeouts.implicitlywait: 20000, wait.for.timeout: 20000}
+13:40:57.638 [main] INFO  n.s.c.w.d.ChromeDriverProvider - Using automatically driver download
+13:40:58.298 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+13:40:58.310 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/enes.ercebi/.cache/selenium/chromedriver/mac-arm64/138.0.7204.183/chromedriver
+13:40:58.385 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Instantiating driver
+13:40:58.386 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, base.url: https://www.yemeksepeti.com/, browserName: chrome, chrome.driver: /usr/local/bin/chromedriver, driver: chrome, goog:chromeOptions: {args: [--remote-allow-origins=*, --start-maximized], extensions: []}, timeouts.implicitlywait: 20000, wait.for.timeout: 20000}
+13:44:18.402 [main] INFO  n.s.c.w.d.ChromeDriverProvider - Using automatically driver download
+13:44:19.062 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+13:44:19.074 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/enes.ercebi/.cache/selenium/chromedriver/mac-arm64/138.0.7204.183/chromedriver
+13:44:19.153 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Instantiating driver
+13:44:19.153 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, base.url: https://www.yemeksepeti.com/, browserName: chrome, chrome.driver: /usr/local/bin/chromedriver, driver: chrome, goog:chromeOptions: {args: [--remote-allow-origins=*, --start-maximized], extensions: []}, timeouts.implicitlywait: 20000, wait.for.timeout: 20000}
+14:05:16.018 [main] INFO  n.s.c.w.d.ChromeDriverProvider - Using automatically driver download
+14:05:16.758 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+14:05:16.771 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/enes.ercebi/.cache/selenium/chromedriver/mac-arm64/138.0.7204.183/chromedriver
+14:05:16.873 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Instantiating driver
+14:05:16.873 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, base.url: https://www.yemeksepeti.com/, browserName: chrome, chrome.driver: /usr/local/bin/chromedriver, driver: chrome, goog:chromeOptions: {args: [--remote-allow-origins=*, --start-maximized], extensions: []}, timeouts.implicitlywait: 20000, wait.for.timeout: 20000}
+14:05:50.483 [main] INFO  base.BasePage - 2 saniye bekliyor
+14:06:12.455 [main] INFO  n.s.c.w.d.ChromeDriverProvider - Using automatically driver download
+14:06:13.139 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+14:06:13.153 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/enes.ercebi/.cache/selenium/chromedriver/mac-arm64/138.0.7204.183/chromedriver
+14:06:13.235 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Instantiating driver
+14:06:13.235 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, base.url: https://www.yemeksepeti.com/, browserName: chrome, chrome.driver: /usr/local/bin/chromedriver, driver: chrome, goog:chromeOptions: {args: [--remote-allow-origins=*, --start-maximized], extensions: []}, timeouts.implicitlywait: 20000, wait.for.timeout: 20000}
+14:06:21.521 [main] INFO  base.BasePage - 2 saniye bekliyor
+14:06:44.948 [main] INFO  n.s.c.w.d.ChromeDriverProvider - Using automatically driver download
+14:06:45.658 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+14:06:45.669 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/enes.ercebi/.cache/selenium/chromedriver/mac-arm64/138.0.7204.183/chromedriver
+14:06:45.747 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Instantiating driver
+14:06:45.747 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, base.url: https://www.yemeksepeti.com/, browserName: chrome, chrome.driver: /usr/local/bin/chromedriver, driver: chrome, goog:chromeOptions: {args: [--remote-allow-origins=*, --start-maximized], extensions: []}, timeouts.implicitlywait: 20000, wait.for.timeout: 20000}
+14:06:54.562 [main] INFO  base.BasePage - 2 saniye bekliyor
+14:09:24.437 [main] INFO  i.c.core.plugin.SerenityReporter - Running feature from file:///Users/enes.ercebi/IdeaProjects/yemeksepeti-selenium-automation/src/test/resources/features/Login/Login.feature
+14:09:24.462 [main] INFO   - 
+
+-------------------------------------------------------------------------------------
+     _______. _______ .______       _______ .__   __.  __  .___________.____    ____ 
+    /       ||   ____||   _  \     |   ____||  \ |  | |  | |           |\   \  /   / 
+   |   (----`|  |__   |  |_)  |    |  |__   |   \|  | |  | `---|  |----` \   \/   /  
+    \   \    |   __|  |      /     |   __|  |  . `  | |  |     |  |       \_    _/   
+.----)   |   |  |____ |  |\  \----.|  |____ |  |\   | |  |     |  |         |  |     
+|_______/    |_______|| _| `._____||_______||__| \__| |__|     |__|         |__|    
+                                                                                     
+ News and tutorials at http://www.serenity-bdd.info                                  
+ Documentation at https://wakaleo.gitbooks.io/the-serenity-book/content/             
+ Join the Serenity Community on Gitter: https://gitter.im/serenity-bdd/serenity-core 
+ Serenity BDD Support and Training at http://serenity-bdd.info/#/trainingandsupport  
+-------------------------------------------------------------------------------------
+
+14:09:24.464 [main] INFO   - Test Suite Started: User can login the Yemekpay BO App
+14:09:38.743 [main] INFO  n.s.c.w.d.ChromeDriverProvider - Using automatically driver download
+14:09:39.392 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+14:09:39.403 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/enes.ercebi/.cache/selenium/chromedriver/mac-arm64/138.0.7204.183/chromedriver
+14:09:39.480 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Instantiating driver
+14:09:39.480 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, base.url: https://www.yemeksepeti.com/, browserName: chrome, chrome.driver: /usr/local/bin/chromedriver, driver: chrome, goog:chromeOptions: {args: [--remote-allow-origins=*, --start-maximized], extensions: []}, timeouts.implicitlywait: 20000, wait.for.timeout: 20000}
+14:09:48.100 [main] INFO  base.BasePage - 2 saniye bekliyor
+14:09:50.141 [main] INFO  base.BasePage - 2 saniye bekliyor
+14:09:52.167 [main] INFO  base.BasePage - 2 saniye bekliyor
+14:09:54.296 [main] INFO  base.BasePage - 2 saniye bekliyor
+14:09:56.450 [main] INFO  base.BasePage - 2 saniye bekliyor
+14:09:58.543 [main] INFO  base.BasePage - 2 saniye bekliyor
+14:11:46.344 [main] INFO  n.s.c.w.d.ChromeDriverProvider - Using automatically driver download
+14:11:46.998 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+14:11:47.010 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/enes.ercebi/.cache/selenium/chromedriver/mac-arm64/138.0.7204.183/chromedriver
+14:11:47.082 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Instantiating driver
+14:11:47.083 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, base.url: https://www.yemeksepeti.com/, browserName: chrome, chrome.driver: /usr/local/bin/chromedriver, driver: chrome, goog:chromeOptions: {args: [--remote-allow-origins=*, --start-maximized], extensions: []}, timeouts.implicitlywait: 20000, wait.for.timeout: 20000}
+14:11:56.340 [main] INFO  base.BasePage - 2 saniye bekliyor
+14:11:58.379 [main] INFO  base.BasePage - 2 saniye bekliyor
+14:12:00.408 [main] INFO  base.BasePage - 2 saniye bekliyor
+14:12:02.551 [main] INFO  base.BasePage - 2 saniye bekliyor
+14:12:37.195 [main] INFO  base.BasePage - 2 saniye bekliyor
+14:13:21.318 [main] INFO  n.s.c.w.d.ChromeDriverProvider - Using automatically driver download
+14:13:21.978 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+14:13:21.989 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/enes.ercebi/.cache/selenium/chromedriver/mac-arm64/138.0.7204.183/chromedriver
+14:13:22.062 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Instantiating driver
+14:13:22.062 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, base.url: https://www.yemeksepeti.com/, browserName: chrome, chrome.driver: /usr/local/bin/chromedriver, driver: chrome, goog:chromeOptions: {args: [--remote-allow-origins=*, --start-maximized], extensions: []}, timeouts.implicitlywait: 20000, wait.for.timeout: 20000}
+14:13:31.360 [main] INFO  base.BasePage - 2 saniye bekliyor
+14:13:33.405 [main] INFO  base.BasePage - 2 saniye bekliyor
+14:13:35.447 [main] INFO  base.BasePage - 2 saniye bekliyor
+14:13:37.566 [main] INFO  base.BasePage - 2 saniye bekliyor
+14:13:51.136 [main] INFO  base.BasePage - 2 saniye bekliyor
+14:14:47.317 [main] INFO  base.BasePage - 2 saniye bekliyor
+14:22:37.166 [main] INFO  i.c.core.plugin.SerenityReporter - Running feature from file:///Users/enes.ercebi/IdeaProjects/yemeksepeti-selenium-automation/src/test/resources/features/Login/Login.feature
+14:22:37.189 [main] INFO   - 
+
+-------------------------------------------------------------------------------------
+     _______. _______ .______       _______ .__   __.  __  .___________.____    ____ 
+    /       ||   ____||   _  \     |   ____||  \ |  | |  | |           |\   \  /   / 
+   |   (----`|  |__   |  |_)  |    |  |__   |   \|  | |  | `---|  |----` \   \/   /  
+    \   \    |   __|  |      /     |   __|  |  . `  | |  |     |  |       \_    _/   
+.----)   |   |  |____ |  |\  \----.|  |____ |  |\   | |  |     |  |         |  |     
+|_______/    |_______|| _| `._____||_______||__| \__| |__|     |__|         |__|    
+                                                                                     
+ News and tutorials at http://www.serenity-bdd.info                                  
+ Documentation at https://wakaleo.gitbooks.io/the-serenity-book/content/             
+ Join the Serenity Community on Gitter: https://gitter.im/serenity-bdd/serenity-core 
+ Serenity BDD Support and Training at http://serenity-bdd.info/#/trainingandsupport  
+-------------------------------------------------------------------------------------
+
+14:22:37.191 [main] INFO   - Test Suite Started: User can login the Yemekpay BO App
+14:22:55.185 [main] INFO  n.s.c.w.d.ChromeDriverProvider - Using automatically driver download
+14:22:55.870 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+14:22:55.881 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/enes.ercebi/.cache/selenium/chromedriver/mac-arm64/138.0.7204.183/chromedriver
+14:22:55.961 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Instantiating driver
+14:22:55.962 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, base.url: https://www.yemeksepeti.com/, browserName: chrome, chrome.driver: /usr/local/bin/chromedriver, driver: chrome, goog:chromeOptions: {args: [--remote-allow-origins=*, --start-maximized], extensions: []}, timeouts.implicitlywait: 20000, wait.for.timeout: 20000}
+14:23:04.625 [main] INFO  base.BasePage - 2 saniye bekliyor
+14:23:06.665 [main] INFO  base.BasePage - 2 saniye bekliyor
+14:23:08.690 [main] INFO  base.BasePage - 2 saniye bekliyor
+14:23:10.833 [main] INFO  base.BasePage - 2 saniye bekliyor
+14:23:12.971 [main] INFO  base.BasePage - 2 saniye bekliyor
+14:23:15.071 [main] INFO  base.BasePage - 2 saniye bekliyor
+14:24:34.049 [main] INFO  i.c.core.plugin.SerenityReporter - Running feature from file:///Users/enes.ercebi/IdeaProjects/yemeksepeti-selenium-automation/src/test/resources/features/Login/Login.feature
+14:24:34.073 [main] INFO   - 
+
+-------------------------------------------------------------------------------------
+     _______. _______ .______       _______ .__   __.  __  .___________.____    ____ 
+    /       ||   ____||   _  \     |   ____||  \ |  | |  | |           |\   \  /   / 
+   |   (----`|  |__   |  |_)  |    |  |__   |   \|  | |  | `---|  |----` \   \/   /  
+    \   \    |   __|  |      /     |   __|  |  . `  | |  |     |  |       \_    _/   
+.----)   |   |  |____ |  |\  \----.|  |____ |  |\   | |  |     |  |         |  |     
+|_______/    |_______|| _| `._____||_______||__| \__| |__|     |__|         |__|    
+                                                                                     
+ News and tutorials at http://www.serenity-bdd.info                                  
+ Documentation at https://wakaleo.gitbooks.io/the-serenity-book/content/             
+ Join the Serenity Community on Gitter: https://gitter.im/serenity-bdd/serenity-core 
+ Serenity BDD Support and Training at http://serenity-bdd.info/#/trainingandsupport  
+-------------------------------------------------------------------------------------
+
+14:24:34.074 [main] INFO   - Test Suite Started: User can login the Yemekpay BO App
+14:24:48.114 [main] INFO  n.s.c.w.d.ChromeDriverProvider - Using automatically driver download
+14:24:48.786 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+14:24:48.802 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/enes.ercebi/.cache/selenium/chromedriver/mac-arm64/138.0.7204.183/chromedriver
+14:24:48.879 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Instantiating driver
+14:24:48.879 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, base.url: https://www.yemeksepeti.com/, browserName: chrome, chrome.driver: /usr/local/bin/chromedriver, driver: chrome, goog:chromeOptions: {args: [--remote-allow-origins=*, --start-maximized], extensions: []}, timeouts.implicitlywait: 20000, wait.for.timeout: 20000}
+14:25:30.109 [main] INFO  n.s.c.w.d.ChromeDriverProvider - Using automatically driver download
+14:25:30.787 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+14:25:30.797 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/enes.ercebi/.cache/selenium/chromedriver/mac-arm64/138.0.7204.183/chromedriver
+14:25:30.878 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Instantiating driver
+14:25:30.878 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, base.url: https://www.yemeksepeti.com/, browserName: chrome, chrome.driver: /usr/local/bin/chromedriver, driver: chrome, goog:chromeOptions: {args: [--remote-allow-origins=*, --start-maximized], extensions: []}, timeouts.implicitlywait: 20000, wait.for.timeout: 20000}
+14:25:39.549 [main] INFO  base.BasePage - 1 saniye bekliyor
+14:25:40.585 [main] INFO  base.BasePage - 1 saniye bekliyor
+14:25:41.621 [main] INFO  base.BasePage - 1 saniye bekliyor
+14:25:42.767 [main] INFO  base.BasePage - 1 saniye bekliyor
+14:25:43.925 [main] INFO  base.BasePage - 1 saniye bekliyor
+14:25:45.023 [main] INFO  base.BasePage - 1 saniye bekliyor
+14:25:46.091 [main] INFO  base.BasePage - 1 saniye bekliyor
+14:25:47.195 [main] INFO  base.BasePage - 1 saniye bekliyor
+14:26:47.213 [main] INFO  n.s.c.w.d.ChromeDriverProvider - Using automatically driver download
+14:26:47.902 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+14:26:47.911 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/enes.ercebi/.cache/selenium/chromedriver/mac-arm64/138.0.7204.183/chromedriver
+14:26:47.991 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Instantiating driver
+14:26:47.991 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, base.url: https://www.yemeksepeti.com/, browserName: chrome, chrome.driver: /usr/local/bin/chromedriver, driver: chrome, goog:chromeOptions: {args: [--remote-allow-origins=*, --start-maximized], extensions: []}, timeouts.implicitlywait: 20000, wait.for.timeout: 20000}
+14:26:56.412 [main] INFO  base.BasePage - 1 saniye bekliyor
+14:26:57.457 [main] INFO  base.BasePage - 1 saniye bekliyor
+14:26:58.485 [main] INFO  base.BasePage - 1 saniye bekliyor
+14:26:59.608 [main] INFO  base.BasePage - 1 saniye bekliyor
+14:27:00.733 [main] INFO  base.BasePage - 1 saniye bekliyor
+14:27:01.828 [main] INFO  base.BasePage - 1 saniye bekliyor
+14:27:02.899 [main] INFO  base.BasePage - 1 saniye bekliyor
+14:27:30.136 [main] INFO  n.s.c.w.d.ChromeDriverProvider - Using automatically driver download
+14:27:30.821 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+14:27:30.831 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/enes.ercebi/.cache/selenium/chromedriver/mac-arm64/138.0.7204.183/chromedriver
+14:27:30.921 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Instantiating driver
+14:27:30.921 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, base.url: https://www.yemeksepeti.com/, browserName: chrome, chrome.driver: /usr/local/bin/chromedriver, driver: chrome, goog:chromeOptions: {args: [--remote-allow-origins=*, --start-maximized], extensions: []}, timeouts.implicitlywait: 20000, wait.for.timeout: 20000}
+14:27:39.254 [main] INFO  base.BasePage - 1 saniye bekliyor
+14:27:40.300 [main] INFO  base.BasePage - 1 saniye bekliyor
+14:27:41.334 [main] INFO  base.BasePage - 1 saniye bekliyor
+14:27:42.472 [main] INFO  base.BasePage - 1 saniye bekliyor
+14:27:43.594 [main] INFO  base.BasePage - 1 saniye bekliyor
+14:27:44.688 [main] INFO  base.BasePage - 1 saniye bekliyor
+14:27:45.754 [main] INFO  base.BasePage - 1 saniye bekliyor
+14:29:15.410 [main] INFO  n.s.c.w.d.ChromeDriverProvider - Using automatically driver download
+14:29:16.063 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+14:29:16.075 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/enes.ercebi/.cache/selenium/chromedriver/mac-arm64/138.0.7204.183/chromedriver
+14:29:16.149 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Instantiating driver
+14:29:16.149 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, base.url: https://www.yemeksepeti.com/, browserName: chrome, chrome.driver: /usr/local/bin/chromedriver, driver: chrome, goog:chromeOptions: {args: [--remote-allow-origins=*, --start-maximized], extensions: []}, timeouts.implicitlywait: 20000, wait.for.timeout: 20000}
+14:29:25.607 [main] INFO  base.BasePage - 1 saniye bekliyor
+14:29:26.642 [main] INFO  base.BasePage - 1 saniye bekliyor
+14:29:27.678 [main] INFO  base.BasePage - 1 saniye bekliyor
+14:29:28.808 [main] INFO  base.BasePage - 1 saniye bekliyor
+14:29:29.961 [main] INFO  base.BasePage - 1 saniye bekliyor
+14:29:31.048 [main] INFO  base.BasePage - 1 saniye bekliyor
+14:38:25.982 [main] INFO  i.c.core.plugin.SerenityReporter - Running feature from file:///Users/enes.ercebi/IdeaProjects/yemeksepeti-selenium-automation/src/test/resources/features/Login/Login.feature
+14:38:26.006 [main] INFO   - 
+
+-------------------------------------------------------------------------------------
+     _______. _______ .______       _______ .__   __.  __  .___________.____    ____ 
+    /       ||   ____||   _  \     |   ____||  \ |  | |  | |           |\   \  /   / 
+   |   (----`|  |__   |  |_)  |    |  |__   |   \|  | |  | `---|  |----` \   \/   /  
+    \   \    |   __|  |      /     |   __|  |  . `  | |  |     |  |       \_    _/   
+.----)   |   |  |____ |  |\  \----.|  |____ |  |\   | |  |     |  |         |  |     
+|_______/    |_______|| _| `._____||_______||__| \__| |__|     |__|         |__|    
+                                                                                     
+ News and tutorials at http://www.serenity-bdd.info                                  
+ Documentation at https://wakaleo.gitbooks.io/the-serenity-book/content/             
+ Join the Serenity Community on Gitter: https://gitter.im/serenity-bdd/serenity-core 
+ Serenity BDD Support and Training at http://serenity-bdd.info/#/trainingandsupport  
+-------------------------------------------------------------------------------------
+
+14:38:26.008 [main] INFO   - Test Suite Started: User can login the Yemekpay BO App
+14:38:54.396 [main] INFO  n.s.c.w.d.ChromeDriverProvider - Using automatically driver download
+14:38:55.576 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+14:38:55.591 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/enes.ercebi/.cache/selenium/chromedriver/mac-arm64/138.0.7204.183/chromedriver
+14:38:55.677 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Instantiating driver
+14:38:55.677 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, base.url: https://www.yemeksepeti.com/, browserName: chrome, chrome.driver: /usr/local/bin/chromedriver, driver: chrome, goog:chromeOptions: {args: [--remote-allow-origins=*, --start-maximized], extensions: []}, timeouts.implicitlywait: 20000, wait.for.timeout: 20000}
+14:39:04.257 [main] INFO  base.BasePage - 1 saniye bekliyor
+14:39:05.287 [main] INFO  base.BasePage - 1 saniye bekliyor
+14:39:06.325 [main] INFO  base.BasePage - 1 saniye bekliyor
+14:39:07.455 [main] INFO  base.BasePage - 1 saniye bekliyor
+14:39:08.602 [main] INFO  base.BasePage - 1 saniye bekliyor
+14:39:09.692 [main] INFO  base.BasePage - 1 saniye bekliyor
+14:39:10.762 [main] INFO  base.BasePage - 1 saniye bekliyor
+14:39:11.871 [main] INFO  base.BasePage - 1 saniye bekliyor
+14:39:31.154 [main] INFO  n.s.c.w.d.ChromeDriverProvider - Using automatically driver download
+14:39:31.824 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+14:39:31.834 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/enes.ercebi/.cache/selenium/chromedriver/mac-arm64/138.0.7204.183/chromedriver
+14:39:31.910 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Instantiating driver
+14:39:31.910 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, base.url: https://www.yemeksepeti.com/, browserName: chrome, chrome.driver: /usr/local/bin/chromedriver, driver: chrome, goog:chromeOptions: {args: [--remote-allow-origins=*, --start-maximized], extensions: []}, timeouts.implicitlywait: 20000, wait.for.timeout: 20000}
+14:39:40.477 [main] INFO  base.BasePage - 1 saniye bekliyor
+14:39:41.521 [main] INFO  base.BasePage - 1 saniye bekliyor
+14:39:42.558 [main] INFO  base.BasePage - 1 saniye bekliyor
+14:39:43.688 [main] INFO  base.BasePage - 1 saniye bekliyor
+14:39:44.825 [main] INFO  base.BasePage - 1 saniye bekliyor
+14:39:45.909 [main] INFO  base.BasePage - 1 saniye bekliyor
+14:40:42.269 [main] INFO  base.BasePage - 1 saniye bekliyor
+14:41:40.967 [main] INFO  n.s.c.w.d.ChromeDriverProvider - Using automatically driver download
+14:41:41.611 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+14:41:41.623 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/enes.ercebi/.cache/selenium/chromedriver/mac-arm64/138.0.7204.183/chromedriver
+14:41:41.696 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Instantiating driver
+14:41:41.697 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, base.url: https://www.yemeksepeti.com/, browserName: chrome, chrome.driver: /usr/local/bin/chromedriver, driver: chrome, goog:chromeOptions: {args: [--remote-allow-origins=*, --start-maximized], extensions: []}, timeouts.implicitlywait: 20000, wait.for.timeout: 20000}
+14:41:51.935 [main] INFO  base.BasePage - 1 saniye bekliyor
+14:41:52.968 [main] INFO  base.BasePage - 1 saniye bekliyor
+14:41:53.993 [main] INFO  base.BasePage - 1 saniye bekliyor
+14:41:55.141 [main] INFO  base.BasePage - 1 saniye bekliyor
+14:41:56.274 [main] INFO  base.BasePage - 1 saniye bekliyor
+14:41:57.374 [main] INFO  base.BasePage - 1 saniye bekliyor
+14:43:42.712 [main] INFO  n.s.c.w.d.ChromeDriverProvider - Using automatically driver download
+14:43:43.372 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+14:43:43.384 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/enes.ercebi/.cache/selenium/chromedriver/mac-arm64/138.0.7204.183/chromedriver
+14:43:43.466 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Instantiating driver
+14:43:43.467 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, base.url: https://www.yemeksepeti.com/, browserName: chrome, chrome.driver: /usr/local/bin/chromedriver, driver: chrome, goog:chromeOptions: {args: [--remote-allow-origins=*, --start-maximized], extensions: []}, timeouts.implicitlywait: 20000, wait.for.timeout: 20000}
+14:44:19.835 [main] INFO  n.s.c.w.d.ChromeDriverProvider - Using automatically driver download
+14:44:20.539 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+14:44:20.549 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/enes.ercebi/.cache/selenium/chromedriver/mac-arm64/138.0.7204.183/chromedriver
+14:44:20.634 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Instantiating driver
+14:44:20.634 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, base.url: https://www.yemeksepeti.com/, browserName: chrome, chrome.driver: /usr/local/bin/chromedriver, driver: chrome, goog:chromeOptions: {args: [--remote-allow-origins=*, --start-maximized], extensions: []}, timeouts.implicitlywait: 20000, wait.for.timeout: 20000}
+14:44:56.954 [main] INFO  n.s.c.w.d.ChromeDriverProvider - Using automatically driver download
+14:44:57.648 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+14:44:57.657 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/enes.ercebi/.cache/selenium/chromedriver/mac-arm64/138.0.7204.183/chromedriver
+14:44:57.741 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Instantiating driver
+14:44:57.741 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, base.url: https://www.yemeksepeti.com/, browserName: chrome, chrome.driver: /usr/local/bin/chromedriver, driver: chrome, goog:chromeOptions: {args: [--remote-allow-origins=*, --start-maximized], extensions: []}, timeouts.implicitlywait: 20000, wait.for.timeout: 20000}
+14:45:34.015 [main] INFO  n.s.c.w.d.ChromeDriverProvider - Using automatically driver download
+14:45:34.691 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+14:45:34.701 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/enes.ercebi/.cache/selenium/chromedriver/mac-arm64/138.0.7204.183/chromedriver
+14:45:34.780 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Instantiating driver
+14:45:34.780 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, base.url: https://www.yemeksepeti.com/, browserName: chrome, chrome.driver: /usr/local/bin/chromedriver, driver: chrome, goog:chromeOptions: {args: [--remote-allow-origins=*, --start-maximized], extensions: []}, timeouts.implicitlywait: 20000, wait.for.timeout: 20000}
+14:45:43.241 [main] INFO  base.BasePage - 1 saniye bekliyor
+14:45:44.272 [main] INFO  base.BasePage - 1 saniye bekliyor
+14:45:45.311 [main] INFO  base.BasePage - 1 saniye bekliyor
+14:45:46.445 [main] INFO  base.BasePage - 1 saniye bekliyor
+14:45:47.593 [main] INFO  base.BasePage - 1 saniye bekliyor
+14:45:48.688 [main] INFO  base.BasePage - 1 saniye bekliyor
+14:45:49.766 [main] INFO  base.BasePage - 1 saniye bekliyor
+14:45:50.863 [main] INFO  base.BasePage - 5 saniye bekliyor
+14:47:35.438 [main] INFO  i.c.core.plugin.SerenityReporter - Running feature from file:///Users/enes.ercebi/IdeaProjects/yemeksepeti-selenium-automation/src/test/resources/features/Login/Login.feature
+14:47:35.461 [main] INFO   - 
+
+-------------------------------------------------------------------------------------
+     _______. _______ .______       _______ .__   __.  __  .___________.____    ____ 
+    /       ||   ____||   _  \     |   ____||  \ |  | |  | |           |\   \  /   / 
+   |   (----`|  |__   |  |_)  |    |  |__   |   \|  | |  | `---|  |----` \   \/   /  
+    \   \    |   __|  |      /     |   __|  |  . `  | |  |     |  |       \_    _/   
+.----)   |   |  |____ |  |\  \----.|  |____ |  |\   | |  |     |  |         |  |     
+|_______/    |_______|| _| `._____||_______||__| \__| |__|     |__|         |__|    
+                                                                                     
+ News and tutorials at http://www.serenity-bdd.info                                  
+ Documentation at https://wakaleo.gitbooks.io/the-serenity-book/content/             
+ Join the Serenity Community on Gitter: https://gitter.im/serenity-bdd/serenity-core 
+ Serenity BDD Support and Training at http://serenity-bdd.info/#/trainingandsupport  
+-------------------------------------------------------------------------------------
+
+14:47:35.463 [main] INFO   - Test Suite Started: User can login the Yemekpay BO App
+14:47:48.344 [main] INFO  n.s.c.w.d.ChromeDriverProvider - Using automatically driver download
+14:47:49.015 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+14:47:49.028 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/enes.ercebi/.cache/selenium/chromedriver/mac-arm64/138.0.7204.183/chromedriver
+14:47:49.107 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Instantiating driver
+14:47:49.107 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, base.url: https://www.yemeksepeti.com/, browserName: chrome, chrome.driver: /usr/local/bin/chromedriver, driver: chrome, goog:chromeOptions: {args: [--remote-allow-origins=*, --start-maximized], extensions: []}, timeouts.implicitlywait: 20000, wait.for.timeout: 20000}
+14:47:57.271 [main] INFO  base.BasePage - 1 saniye bekliyor
+14:47:58.311 [main] INFO  base.BasePage - 1 saniye bekliyor
+14:47:59.342 [main] INFO  base.BasePage - 1 saniye bekliyor
+14:48:00.488 [main] INFO  base.BasePage - 1 saniye bekliyor
+14:48:01.628 [main] INFO  base.BasePage - 1 saniye bekliyor
+14:48:02.717 [main] INFO  base.BasePage - 1 saniye bekliyor
+14:48:03.797 [main] INFO  base.BasePage - 1 saniye bekliyor
+14:48:13.889 [main] INFO  n.s.c.w.d.ChromeDriverProvider - Using automatically driver download
+14:48:14.568 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+14:48:14.579 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/enes.ercebi/.cache/selenium/chromedriver/mac-arm64/138.0.7204.183/chromedriver
+14:48:14.657 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Instantiating driver
+14:48:14.657 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, base.url: https://www.yemeksepeti.com/, browserName: chrome, chrome.driver: /usr/local/bin/chromedriver, driver: chrome, goog:chromeOptions: {args: [--remote-allow-origins=*, --start-maximized], extensions: []}, timeouts.implicitlywait: 20000, wait.for.timeout: 20000}
+14:48:23.100 [main] INFO  base.BasePage - 1 saniye bekliyor
+14:48:24.138 [main] INFO  base.BasePage - 1 saniye bekliyor
+14:48:25.178 [main] INFO  base.BasePage - 1 saniye bekliyor
+14:48:26.312 [main] INFO  base.BasePage - 1 saniye bekliyor
+14:48:27.453 [main] INFO  base.BasePage - 1 saniye bekliyor
+14:48:28.551 [main] INFO  base.BasePage - 1 saniye bekliyor
+14:48:29.628 [main] INFO  base.BasePage - 1 saniye bekliyor
+14:48:30.763 [main] INFO  base.BasePage - 20 saniye bekliyor
+14:49:00.131 [main] INFO  n.s.c.w.d.ChromeDriverProvider - Using automatically driver download
+14:49:00.814 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+14:49:00.826 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/enes.ercebi/.cache/selenium/chromedriver/mac-arm64/138.0.7204.183/chromedriver
+14:49:00.907 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Instantiating driver
+14:49:00.907 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, base.url: https://www.yemeksepeti.com/, browserName: chrome, chrome.driver: /usr/local/bin/chromedriver, driver: chrome, goog:chromeOptions: {args: [--remote-allow-origins=*, --start-maximized], extensions: []}, timeouts.implicitlywait: 20000, wait.for.timeout: 20000}
+14:49:08.968 [main] INFO  base.BasePage - 1 saniye bekliyor
+14:49:10.008 [main] INFO  base.BasePage - 1 saniye bekliyor
+14:49:11.048 [main] INFO  base.BasePage - 1 saniye bekliyor
+14:49:12.183 [main] INFO  base.BasePage - 1 saniye bekliyor
+14:49:13.328 [main] INFO  base.BasePage - 1 saniye bekliyor
+14:49:14.413 [main] INFO  base.BasePage - 1 saniye bekliyor
+14:49:15.484 [main] INFO  base.BasePage - 1 saniye bekliyor
+14:49:25.016 [main] INFO  n.s.c.w.d.ChromeDriverProvider - Using automatically driver download
+14:49:25.686 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+14:49:25.697 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/enes.ercebi/.cache/selenium/chromedriver/mac-arm64/138.0.7204.183/chromedriver
+14:49:25.778 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Instantiating driver
+14:49:25.778 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, base.url: https://www.yemeksepeti.com/, browserName: chrome, chrome.driver: /usr/local/bin/chromedriver, driver: chrome, goog:chromeOptions: {args: [--remote-allow-origins=*, --start-maximized], extensions: []}, timeouts.implicitlywait: 20000, wait.for.timeout: 20000}
+14:50:01.687 [main] INFO  n.s.c.w.d.ChromeDriverProvider - Using automatically driver download
+14:50:02.364 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+14:50:02.374 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/enes.ercebi/.cache/selenium/chromedriver/mac-arm64/138.0.7204.183/chromedriver
+14:50:02.453 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Instantiating driver
+14:50:02.453 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, base.url: https://www.yemeksepeti.com/, browserName: chrome, chrome.driver: /usr/local/bin/chromedriver, driver: chrome, goog:chromeOptions: {args: [--remote-allow-origins=*, --start-maximized], extensions: []}, timeouts.implicitlywait: 20000, wait.for.timeout: 20000}
+14:50:10.336 [main] INFO  base.BasePage - 1 saniye bekliyor
+14:50:11.382 [main] INFO  base.BasePage - 1 saniye bekliyor
+14:50:12.419 [main] INFO  base.BasePage - 1 saniye bekliyor
+14:50:13.568 [main] INFO  base.BasePage - 1 saniye bekliyor
+14:50:14.715 [main] INFO  base.BasePage - 1 saniye bekliyor
+14:50:15.807 [main] INFO  base.BasePage - 1 saniye bekliyor
+14:50:16.880 [main] INFO  base.BasePage - 1 saniye bekliyor
+14:50:43.990 [main] INFO  n.s.c.w.d.ChromeDriverProvider - Using automatically driver download
+14:50:44.669 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+14:50:44.680 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/enes.ercebi/.cache/selenium/chromedriver/mac-arm64/138.0.7204.183/chromedriver
+14:50:44.758 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Instantiating driver
+14:50:44.758 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, base.url: https://www.yemeksepeti.com/, browserName: chrome, chrome.driver: /usr/local/bin/chromedriver, driver: chrome, goog:chromeOptions: {args: [--remote-allow-origins=*, --start-maximized], extensions: []}, timeouts.implicitlywait: 20000, wait.for.timeout: 20000}
+14:50:53.209 [main] INFO  base.BasePage - 1 saniye bekliyor
+14:50:54.246 [main] INFO  base.BasePage - 1 saniye bekliyor
+14:50:55.288 [main] INFO  base.BasePage - 1 saniye bekliyor
+14:50:56.423 [main] INFO  base.BasePage - 1 saniye bekliyor
+14:50:57.546 [main] INFO  base.BasePage - 1 saniye bekliyor
+14:50:58.623 [main] INFO  base.BasePage - 1 saniye bekliyor
+14:50:59.698 [main] INFO  base.BasePage - 1 saniye bekliyor
+14:51:25.561 [main] INFO  n.s.c.w.d.ChromeDriverProvider - Using automatically driver download
+14:51:26.256 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+14:51:26.266 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/enes.ercebi/.cache/selenium/chromedriver/mac-arm64/138.0.7204.183/chromedriver
+14:51:26.345 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Instantiating driver
+14:51:26.345 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, base.url: https://www.yemeksepeti.com/, browserName: chrome, chrome.driver: /usr/local/bin/chromedriver, driver: chrome, goog:chromeOptions: {args: [--remote-allow-origins=*, --start-maximized], extensions: []}, timeouts.implicitlywait: 20000, wait.for.timeout: 20000}
+14:51:34.670 [main] INFO  base.BasePage - 1 saniye bekliyor
+14:51:35.704 [main] INFO  base.BasePage - 1 saniye bekliyor
+14:51:36.738 [main] INFO  base.BasePage - 1 saniye bekliyor
+14:51:37.902 [main] INFO  base.BasePage - 1 saniye bekliyor
+14:51:39.036 [main] INFO  base.BasePage - 1 saniye bekliyor
+14:51:40.130 [main] INFO  base.BasePage - 1 saniye bekliyor
+14:51:41.198 [main] INFO  base.BasePage - 1 saniye bekliyor
+14:51:42.306 [main] INFO  base.BasePage - 20 saniye bekliyor
+14:53:39.346 [main] INFO  n.s.c.w.d.ChromeDriverProvider - Using automatically driver download
+14:53:40.030 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+14:53:40.041 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/enes.ercebi/.cache/selenium/chromedriver/mac-arm64/138.0.7204.183/chromedriver
+14:53:40.140 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Instantiating driver
+14:53:40.140 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, base.url: https://www.yemeksepeti.com/, browserName: chrome, chrome.driver: /usr/local/bin/chromedriver, driver: chrome, goog:chromeOptions: {args: [--remote-allow-origins=*, --start-maximized], extensions: []}, timeouts.implicitlywait: 20000, wait.for.timeout: 20000}
+14:53:48.197 [main] INFO  base.BasePage - 1 saniye bekliyor
+14:53:49.238 [main] INFO  base.BasePage - 1 saniye bekliyor
+14:53:50.281 [main] INFO  base.BasePage - 1 saniye bekliyor
+14:53:51.417 [main] INFO  base.BasePage - 1 saniye bekliyor
+14:53:52.543 [main] INFO  base.BasePage - 1 saniye bekliyor
+14:53:53.633 [main] INFO  base.BasePage - 1 saniye bekliyor
+14:53:54.714 [main] INFO  base.BasePage - 1 saniye bekliyor
+14:54:09.609 [main] INFO  n.s.c.w.d.ChromeDriverProvider - Using automatically driver download
+14:54:10.282 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+14:54:10.292 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/enes.ercebi/.cache/selenium/chromedriver/mac-arm64/138.0.7204.183/chromedriver
+14:54:10.373 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Instantiating driver
+14:54:10.373 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, base.url: https://www.yemeksepeti.com/, browserName: chrome, chrome.driver: /usr/local/bin/chromedriver, driver: chrome, goog:chromeOptions: {args: [--remote-allow-origins=*, --start-maximized], extensions: []}, timeouts.implicitlywait: 20000, wait.for.timeout: 20000}
+14:54:18.429 [main] INFO  base.BasePage - 1 saniye bekliyor
+14:54:19.474 [main] INFO  base.BasePage - 1 saniye bekliyor
+14:54:20.514 [main] INFO  base.BasePage - 1 saniye bekliyor
+14:54:21.653 [main] INFO  base.BasePage - 1 saniye bekliyor
+14:54:22.789 [main] INFO  base.BasePage - 1 saniye bekliyor
+14:54:23.890 [main] INFO  base.BasePage - 1 saniye bekliyor
+14:54:25.031 [main] INFO  base.BasePage - 1 saniye bekliyor
+14:55:58.680 [main] INFO  i.c.core.plugin.SerenityReporter - Running feature from file:///Users/enes.ercebi/IdeaProjects/yemeksepeti-selenium-automation/src/test/resources/features/Login/Login.feature
+14:55:58.705 [main] INFO   - 
+
+-------------------------------------------------------------------------------------
+     _______. _______ .______       _______ .__   __.  __  .___________.____    ____ 
+    /       ||   ____||   _  \     |   ____||  \ |  | |  | |           |\   \  /   / 
+   |   (----`|  |__   |  |_)  |    |  |__   |   \|  | |  | `---|  |----` \   \/   /  
+    \   \    |   __|  |      /     |   __|  |  . `  | |  |     |  |       \_    _/   
+.----)   |   |  |____ |  |\  \----.|  |____ |  |\   | |  |     |  |         |  |     
+|_______/    |_______|| _| `._____||_______||__| \__| |__|     |__|         |__|    
+                                                                                     
+ News and tutorials at http://www.serenity-bdd.info                                  
+ Documentation at https://wakaleo.gitbooks.io/the-serenity-book/content/             
+ Join the Serenity Community on Gitter: https://gitter.im/serenity-bdd/serenity-core 
+ Serenity BDD Support and Training at http://serenity-bdd.info/#/trainingandsupport  
+-------------------------------------------------------------------------------------
+
+14:55:58.707 [main] INFO   - Test Suite Started: User can login the Yemekpay BO App
+14:56:10.974 [main] INFO  n.s.c.w.d.ChromeDriverProvider - Using automatically driver download
+14:56:11.688 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+14:56:11.700 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/enes.ercebi/.cache/selenium/chromedriver/mac-arm64/138.0.7204.183/chromedriver
+14:56:11.778 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Instantiating driver
+14:56:11.778 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, base.url: https://www.yemeksepeti.com/, browserName: chrome, chrome.driver: /usr/local/bin/chromedriver, driver: chrome, goog:chromeOptions: {args: [--remote-allow-origins=*, --start-maximized], extensions: []}, timeouts.implicitlywait: 20000, wait.for.timeout: 20000}
+14:56:20.202 [main] INFO  base.BasePage - 1 saniye bekliyor
+14:56:21.249 [main] INFO  base.BasePage - 60 saniye bekliyor
+14:56:46.794 [main] INFO  n.s.c.w.d.ChromeDriverProvider - Using automatically driver download
+14:56:47.458 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+14:56:47.468 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/enes.ercebi/.cache/selenium/chromedriver/mac-arm64/138.0.7204.183/chromedriver
+14:56:47.550 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Instantiating driver
+14:56:47.550 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, base.url: https://www.yemeksepeti.com/, browserName: chrome, chrome.driver: /usr/local/bin/chromedriver, driver: chrome, goog:chromeOptions: {args: [--remote-allow-origins=*, --start-maximized], extensions: []}, timeouts.implicitlywait: 20000, wait.for.timeout: 20000}
+14:56:55.835 [main] INFO  base.BasePage - 1 saniye bekliyor
+14:56:56.879 [main] INFO  base.BasePage - 60 saniye bekliyor
+14:57:56.923 [main] INFO  base.BasePage - 1 saniye bekliyor
+14:57:58.130 [main] INFO  base.BasePage - 1 saniye bekliyor
+14:57:59.281 [main] INFO  base.BasePage - 1 saniye bekliyor
+14:58:27.377 [main] INFO  i.c.core.plugin.SerenityReporter - Running feature from file:///Users/enes.ercebi/IdeaProjects/yemeksepeti-selenium-automation/src/test/resources/features/Login/Login.feature
+14:58:27.400 [main] INFO   - 
+
+-------------------------------------------------------------------------------------
+     _______. _______ .______       _______ .__   __.  __  .___________.____    ____ 
+    /       ||   ____||   _  \     |   ____||  \ |  | |  | |           |\   \  /   / 
+   |   (----`|  |__   |  |_)  |    |  |__   |   \|  | |  | `---|  |----` \   \/   /  
+    \   \    |   __|  |      /     |   __|  |  . `  | |  |     |  |       \_    _/   
+.----)   |   |  |____ |  |\  \----.|  |____ |  |\   | |  |     |  |         |  |     
+|_______/    |_______|| _| `._____||_______||__| \__| |__|     |__|         |__|    
+                                                                                     
+ News and tutorials at http://www.serenity-bdd.info                                  
+ Documentation at https://wakaleo.gitbooks.io/the-serenity-book/content/             
+ Join the Serenity Community on Gitter: https://gitter.im/serenity-bdd/serenity-core 
+ Serenity BDD Support and Training at http://serenity-bdd.info/#/trainingandsupport  
+-------------------------------------------------------------------------------------
+
+14:58:27.401 [main] INFO   - Test Suite Started: User can login the Yemekpay BO App
+14:58:38.970 [main] INFO  n.s.c.w.d.ChromeDriverProvider - Using automatically driver download
+14:58:39.643 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+14:58:39.656 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/enes.ercebi/.cache/selenium/chromedriver/mac-arm64/138.0.7204.183/chromedriver
+14:58:39.741 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Instantiating driver
+14:58:39.741 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, base.url: https://www.yemeksepeti.com/, browserName: chrome, chrome.driver: /usr/local/bin/chromedriver, driver: chrome, goog:chromeOptions: {args: [--remote-allow-origins=*, --start-maximized], extensions: []}, timeouts.implicitlywait: 20000, wait.for.timeout: 20000}
+14:58:48.311 [main] INFO  base.BasePage - 1 saniye bekliyor
+14:58:49.354 [main] INFO  base.BasePage - 120 saniye bekliyor
+15:00:49.395 [main] INFO  base.BasePage - 1 saniye bekliyor
+15:00:50.597 [main] INFO  base.BasePage - 1 saniye bekliyor
+15:00:51.766 [main] INFO  base.BasePage - 1 saniye bekliyor
+14:00:18.583 [main] INFO  i.c.core.plugin.SerenityReporter - Running feature from file:///Users/enes.ercebi/IdeaProjects/yemeksepeti-selenium-automation/src/test/resources/features/Login/Login.feature
+14:00:18.606 [main] INFO   - 
+
+-------------------------------------------------------------------------------------
+     _______. _______ .______       _______ .__   __.  __  .___________.____    ____ 
+    /       ||   ____||   _  \     |   ____||  \ |  | |  | |           |\   \  /   / 
+   |   (----`|  |__   |  |_)  |    |  |__   |   \|  | |  | `---|  |----` \   \/   /  
+    \   \    |   __|  |      /     |   __|  |  . `  | |  |     |  |       \_    _/   
+.----)   |   |  |____ |  |\  \----.|  |____ |  |\   | |  |     |  |         |  |     
+|_______/    |_______|| _| `._____||_______||__| \__| |__|     |__|         |__|    
+                                                                                     
+ News and tutorials at http://www.serenity-bdd.info                                  
+ Documentation at https://wakaleo.gitbooks.io/the-serenity-book/content/             
+ Join the Serenity Community on Gitter: https://gitter.im/serenity-bdd/serenity-core 
+ Serenity BDD Support and Training at http://serenity-bdd.info/#/trainingandsupport  
+-------------------------------------------------------------------------------------
+
+14:00:18.607 [main] INFO   - Test Suite Started: User can login the Yemekpay BO App
+14:00:26.425 [main] INFO  n.s.c.w.d.ChromeDriverProvider - Using automatically driver download
+14:00:27.961 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+14:00:27.974 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/enes.ercebi/.cache/selenium/chromedriver/mac-arm64/138.0.7204.183/chromedriver
+14:00:28.045 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Instantiating driver
+14:00:28.045 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, base.url: https://www.yemeksepeti.com/, browserName: chrome, chrome.driver: /usr/local/bin/chromedriver, driver: chrome, goog:chromeOptions: {args: [--remote-allow-origins=*, --start-maximized], extensions: []}, timeouts.implicitlywait: 20000, wait.for.timeout: 20000}
+14:00:56.159 [main] INFO  base.BasePage - 1 saniye bekliyor
+14:00:57.193 [main] INFO  base.BasePage - 200 saniye bekliyor
+14:04:22.611 [main] INFO  n.s.c.w.d.ChromeDriverProvider - Using automatically driver download
+14:04:23.247 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+14:04:23.257 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/enes.ercebi/.cache/selenium/chromedriver/mac-arm64/138.0.7204.183/chromedriver
+14:04:23.338 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Instantiating driver
+14:04:23.338 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, base.url: https://www.yemeksepeti.com/, browserName: chrome, chrome.driver: /usr/local/bin/chromedriver, driver: chrome, goog:chromeOptions: {args: [--remote-allow-origins=*, --start-maximized], extensions: []}, timeouts.implicitlywait: 20000, wait.for.timeout: 20000}
+14:04:55.826 [main] INFO  n.s.c.w.d.ChromeDriverProvider - Using automatically driver download
+14:04:56.468 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+14:04:56.477 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/enes.ercebi/.cache/selenium/chromedriver/mac-arm64/138.0.7204.183/chromedriver
+14:04:56.551 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Instantiating driver
+14:04:56.551 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, base.url: https://www.yemeksepeti.com/, browserName: chrome, chrome.driver: /usr/local/bin/chromedriver, driver: chrome, goog:chromeOptions: {args: [--remote-allow-origins=*, --start-maximized], extensions: []}, timeouts.implicitlywait: 20000, wait.for.timeout: 20000}
+14:05:22.601 [main] INFO  n.s.c.w.d.ChromeDriverProvider - Using automatically driver download
+14:05:23.239 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+14:05:23.248 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/enes.ercebi/.cache/selenium/chromedriver/mac-arm64/138.0.7204.183/chromedriver
+14:05:23.328 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Instantiating driver
+14:05:23.329 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, base.url: https://www.yemeksepeti.com/, browserName: chrome, chrome.driver: /usr/local/bin/chromedriver, driver: chrome, goog:chromeOptions: {args: [--remote-allow-origins=*, --start-maximized], extensions: []}, timeouts.implicitlywait: 20000, wait.for.timeout: 20000}
+14:05:53.589 [main] INFO  base.BasePage - 1 saniye bekliyor
+14:05:54.625 [main] INFO  base.BasePage - 200 saniye bekliyor
+14:07:57.306 [AsyncHttpClient-1-4] WARN  o.a.netty.handler.WebSocketHandler - onError
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:258)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:350)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:722)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:658)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:584)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:496)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+14:08:40.829 [main] INFO  i.c.core.plugin.SerenityReporter - Running feature from file:///Users/enes.ercebi/IdeaProjects/yemeksepeti-selenium-automation/src/test/resources/features/Login/Login.feature
+14:08:40.853 [main] INFO   - 
+
+-------------------------------------------------------------------------------------
+     _______. _______ .______       _______ .__   __.  __  .___________.____    ____ 
+    /       ||   ____||   _  \     |   ____||  \ |  | |  | |           |\   \  /   / 
+   |   (----`|  |__   |  |_)  |    |  |__   |   \|  | |  | `---|  |----` \   \/   /  
+    \   \    |   __|  |      /     |   __|  |  . `  | |  |     |  |       \_    _/   
+.----)   |   |  |____ |  |\  \----.|  |____ |  |\   | |  |     |  |         |  |     
+|_______/    |_______|| _| `._____||_______||__| \__| |__|     |__|         |__|    
+                                                                                     
+ News and tutorials at http://www.serenity-bdd.info                                  
+ Documentation at https://wakaleo.gitbooks.io/the-serenity-book/content/             
+ Join the Serenity Community on Gitter: https://gitter.im/serenity-bdd/serenity-core 
+ Serenity BDD Support and Training at http://serenity-bdd.info/#/trainingandsupport  
+-------------------------------------------------------------------------------------
+
+14:08:40.855 [main] INFO   - Test Suite Started: User can login the Yemekpay BO App
+14:44:05.663 [main] INFO  i.c.core.plugin.SerenityReporter - Running feature from file:///Users/enes.ercebi/IdeaProjects/yemeksepeti-selenium-automation/src/test/resources/features/Login/Login.feature
+14:44:05.688 [main] INFO   - 
+
+-------------------------------------------------------------------------------------
+     _______. _______ .______       _______ .__   __.  __  .___________.____    ____ 
+    /       ||   ____||   _  \     |   ____||  \ |  | |  | |           |\   \  /   / 
+   |   (----`|  |__   |  |_)  |    |  |__   |   \|  | |  | `---|  |----` \   \/   /  
+    \   \    |   __|  |      /     |   __|  |  . `  | |  |     |  |       \_    _/   
+.----)   |   |  |____ |  |\  \----.|  |____ |  |\   | |  |     |  |         |  |     
+|_______/    |_______|| _| `._____||_______||__| \__| |__|     |__|         |__|    
+                                                                                     
+ News and tutorials at http://www.serenity-bdd.info                                  
+ Documentation at https://wakaleo.gitbooks.io/the-serenity-book/content/             
+ Join the Serenity Community on Gitter: https://gitter.im/serenity-bdd/serenity-core 
+ Serenity BDD Support and Training at http://serenity-bdd.info/#/trainingandsupport  
+-------------------------------------------------------------------------------------
+
+14:44:05.689 [main] INFO   - Test Suite Started: User can login the Yemekpay BO App
+14:44:23.471 [main] INFO  n.s.c.w.d.ChromeDriverProvider - Using automatically driver download
+14:44:24.104 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+14:44:24.114 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/enes.ercebi/.cache/selenium/chromedriver/mac-arm64/138.0.7204.183/chromedriver
+14:44:24.190 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Instantiating driver
+14:44:24.190 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, base.url: https://www.yemeksepeti.com/, browserName: chrome, chrome.driver: /usr/local/bin/chromedriver, driver: chrome, goog:chromeOptions: {args: [--remote-allow-origins=*, --start-maximized], extensions: []}, timeouts.implicitlywait: 20000, wait.for.timeout: 20000}
+14:44:52.010 [main] INFO  n.s.c.w.d.ChromeDriverProvider - Using automatically driver download
+14:44:52.650 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+14:44:52.660 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/enes.ercebi/.cache/selenium/chromedriver/mac-arm64/138.0.7204.183/chromedriver
+14:44:52.736 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Instantiating driver
+14:44:52.736 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, base.url: https://www.yemeksepeti.com/, browserName: chrome, chrome.driver: /usr/local/bin/chromedriver, driver: chrome, goog:chromeOptions: {args: [--remote-allow-origins=*, --start-maximized], extensions: []}, timeouts.implicitlywait: 20000, wait.for.timeout: 20000}
+14:45:25.909 [main] INFO  n.s.c.w.d.ChromeDriverProvider - Using automatically driver download
+14:45:26.575 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+14:45:26.586 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/enes.ercebi/.cache/selenium/chromedriver/mac-arm64/138.0.7204.183/chromedriver
+14:45:26.662 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Instantiating driver
+14:45:26.662 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, base.url: https://www.yemeksepeti.com/, browserName: chrome, chrome.driver: /usr/local/bin/chromedriver, driver: chrome, goog:chromeOptions: {args: [--remote-allow-origins=*, --start-maximized], extensions: []}, timeouts.implicitlywait: 20000, wait.for.timeout: 20000}
+14:46:20.354 [main] INFO  n.s.c.w.d.ChromeDriverProvider - Using automatically driver download
+14:46:20.994 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+14:46:21.004 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/enes.ercebi/.cache/selenium/chromedriver/mac-arm64/138.0.7204.183/chromedriver
+14:46:21.078 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Instantiating driver
+14:46:21.078 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, base.url: https://www.yemeksepeti.com/, browserName: chrome, chrome.driver: /usr/local/bin/chromedriver, driver: chrome, goog:chromeOptions: {args: [--remote-allow-origins=*, --start-maximized], extensions: []}, timeouts.implicitlywait: 20000, wait.for.timeout: 20000}
+14:47:23.288 [main] INFO  n.s.c.w.d.ChromeDriverProvider - Using automatically driver download
+14:47:23.933 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+14:47:23.942 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/enes.ercebi/.cache/selenium/chromedriver/mac-arm64/138.0.7204.183/chromedriver
+14:47:24.022 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Instantiating driver
+14:47:24.022 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, base.url: https://www.yemeksepeti.com/, browserName: chrome, chrome.driver: /usr/local/bin/chromedriver, driver: chrome, goog:chromeOptions: {args: [--remote-allow-origins=*, --start-maximized], extensions: []}, timeouts.implicitlywait: 20000, wait.for.timeout: 20000}
+14:47:57.340 [main] INFO  n.s.c.w.d.ChromeDriverProvider - Using automatically driver download
+14:47:57.986 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+14:47:57.996 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/enes.ercebi/.cache/selenium/chromedriver/mac-arm64/138.0.7204.183/chromedriver
+14:47:58.073 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Instantiating driver
+14:47:58.073 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, base.url: https://www.yemeksepeti.com/, browserName: chrome, chrome.driver: /usr/local/bin/chromedriver, driver: chrome, goog:chromeOptions: {args: [--remote-allow-origins=*, --start-maximized], extensions: []}, timeouts.implicitlywait: 20000, wait.for.timeout: 20000}
+15:04:14.172 [main] INFO  n.s.c.w.d.ChromeDriverProvider - Using automatically driver download
+15:04:15.373 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+15:04:15.380 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/enes.ercebi/.cache/selenium/chromedriver/mac-arm64/138.0.7204.183/chromedriver
+15:04:15.453 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Instantiating driver
+15:04:15.454 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, base.url: https://www.yemeksepeti.com/, browserName: chrome, chrome.driver: /usr/local/bin/chromedriver, driver: chrome, goog:chromeOptions: {args: [--remote-allow-origins=*, --start-maximized], extensions: []}, timeouts.implicitlywait: 20000, wait.for.timeout: 20000}
+15:05:18.035 [main] INFO  i.c.core.plugin.SerenityReporter - Running feature from file:///Users/enes.ercebi/IdeaProjects/yemeksepeti-selenium-automation/src/test/resources/features/Login/Login.feature
+15:05:18.058 [main] INFO   - 
+
+-------------------------------------------------------------------------------------
+     _______. _______ .______       _______ .__   __.  __  .___________.____    ____ 
+    /       ||   ____||   _  \     |   ____||  \ |  | |  | |           |\   \  /   / 
+   |   (----`|  |__   |  |_)  |    |  |__   |   \|  | |  | `---|  |----` \   \/   /  
+    \   \    |   __|  |      /     |   __|  |  . `  | |  |     |  |       \_    _/   
+.----)   |   |  |____ |  |\  \----.|  |____ |  |\   | |  |     |  |         |  |     
+|_______/    |_______|| _| `._____||_______||__| \__| |__|     |__|         |__|    
+                                                                                     
+ News and tutorials at http://www.serenity-bdd.info                                  
+ Documentation at https://wakaleo.gitbooks.io/the-serenity-book/content/             
+ Join the Serenity Community on Gitter: https://gitter.im/serenity-bdd/serenity-core 
+ Serenity BDD Support and Training at http://serenity-bdd.info/#/trainingandsupport  
+-------------------------------------------------------------------------------------
+
+15:05:18.061 [main] INFO   - Test Suite Started: User can login the Yemekpay BO App
+15:05:44.196 [main] INFO  n.s.c.w.d.ChromeDriverProvider - Using automatically driver download
+15:05:44.860 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+15:05:44.871 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/enes.ercebi/.cache/selenium/chromedriver/mac-arm64/138.0.7204.183/chromedriver
+15:05:44.963 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Instantiating driver
+15:05:44.963 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, base.url: https://www.yemeksepeti.com/, browserName: chrome, chrome.driver: /usr/local/bin/chromedriver, driver: chrome, goog:chromeOptions: {args: [--remote-allow-origins=*, --start-maximized], extensions: []}, timeouts.implicitlywait: 20000, wait.for.timeout: 20000}
+15:06:51.209 [main] INFO  n.s.c.w.d.ChromeDriverProvider - Using automatically driver download
+15:06:51.873 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+15:06:51.885 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/enes.ercebi/.cache/selenium/chromedriver/mac-arm64/138.0.7204.183/chromedriver
+15:06:51.962 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Instantiating driver
+15:06:51.962 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, base.url: https://www.yemeksepeti.com/, browserName: chrome, chrome.driver: /usr/local/bin/chromedriver, driver: chrome, goog:chromeOptions: {args: [--remote-allow-origins=*, --start-maximized], extensions: []}, timeouts.implicitlywait: 20000, wait.for.timeout: 20000}
+15:07:42.386 [main] INFO  n.s.c.w.d.ChromeDriverProvider - Using automatically driver download
+15:07:43.044 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+15:07:43.054 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/enes.ercebi/.cache/selenium/chromedriver/mac-arm64/138.0.7204.183/chromedriver
+15:07:43.128 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Instantiating driver
+15:07:43.129 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, base.url: https://www.yemeksepeti.com/, browserName: chrome, chrome.driver: /usr/local/bin/chromedriver, driver: chrome, goog:chromeOptions: {args: [--remote-allow-origins=*, --start-maximized], extensions: []}, timeouts.implicitlywait: 20000, wait.for.timeout: 20000}
+15:20:24.794 [main] INFO  n.s.c.w.d.ChromeDriverProvider - Using automatically driver download
+15:20:25.558 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+15:20:25.573 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/enes.ercebi/.cache/selenium/chromedriver/mac-arm64/138.0.7204.183/chromedriver
+15:20:25.666 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Instantiating driver
+15:20:25.666 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, base.url: https://www.yemeksepeti.com/, browserName: chrome, chrome.driver: /usr/local/bin/chromedriver, driver: chrome, goog:chromeOptions: {args: [--remote-allow-origins=*, --start-maximized], extensions: []}, timeouts.implicitlywait: 20000, wait.for.timeout: 20000}
+15:21:08.462 [main] INFO  n.s.c.w.d.ChromeDriverProvider - Using automatically driver download
+15:21:09.200 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+15:21:09.213 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/enes.ercebi/.cache/selenium/chromedriver/mac-arm64/138.0.7204.183/chromedriver
+15:21:09.292 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Instantiating driver
+15:21:09.293 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, base.url: https://www.yemeksepeti.com/, browserName: chrome, chrome.driver: /usr/local/bin/chromedriver, driver: chrome, goog:chromeOptions: {args: [--remote-allow-origins=*, --start-maximized], extensions: []}, timeouts.implicitlywait: 20000, wait.for.timeout: 20000}
+15:22:12.424 [main] INFO  i.c.core.plugin.SerenityReporter - Running feature from file:///Users/enes.ercebi/IdeaProjects/yemeksepeti-selenium-automation/src/test/resources/features/Login/Login.feature
+15:22:12.448 [main] INFO   - 
+
+-------------------------------------------------------------------------------------
+     _______. _______ .______       _______ .__   __.  __  .___________.____    ____ 
+    /       ||   ____||   _  \     |   ____||  \ |  | |  | |           |\   \  /   / 
+   |   (----`|  |__   |  |_)  |    |  |__   |   \|  | |  | `---|  |----` \   \/   /  
+    \   \    |   __|  |      /     |   __|  |  . `  | |  |     |  |       \_    _/   
+.----)   |   |  |____ |  |\  \----.|  |____ |  |\   | |  |     |  |         |  |     
+|_______/    |_______|| _| `._____||_______||__| \__| |__|     |__|         |__|    
+                                                                                     
+ News and tutorials at http://www.serenity-bdd.info                                  
+ Documentation at https://wakaleo.gitbooks.io/the-serenity-book/content/             
+ Join the Serenity Community on Gitter: https://gitter.im/serenity-bdd/serenity-core 
+ Serenity BDD Support and Training at http://serenity-bdd.info/#/trainingandsupport  
+-------------------------------------------------------------------------------------
+
+15:22:12.449 [main] INFO   - Test Suite Started: User can login the Yemekpay BO App
+15:22:23.434 [main] INFO  n.s.c.w.d.ChromeDriverProvider - Using automatically driver download
+15:22:24.094 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+15:22:24.106 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/enes.ercebi/.cache/selenium/chromedriver/mac-arm64/138.0.7204.183/chromedriver
+15:22:24.198 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Instantiating driver
+15:22:24.199 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, base.url: https://www.yemeksepeti.com/, browserName: chrome, chrome.driver: /usr/local/bin/chromedriver, driver: chrome, goog:chromeOptions: {args: [--remote-allow-origins=*, --start-maximized], extensions: []}, timeouts.implicitlywait: 20000, wait.for.timeout: 20000}
+15:22:51.710 [main] INFO  base.BasePage - 1 saniye bekliyor
+15:22:52.749 [main] INFO  base.BasePage - 10 saniye bekliyor
+15:23:02.787 [main] INFO  base.BasePage - 1 saniye bekliyor
+15:23:03.931 [main] INFO  base.BasePage - 1 saniye bekliyor
+15:23:05.081 [main] INFO  base.BasePage - 1 saniye bekliyor
+15:23:06.178 [main] INFO  base.BasePage - 1 saniye bekliyor
+15:23:07.253 [main] INFO  base.BasePage - 1 saniye bekliyor
+15:24:24.452 [main] INFO  i.c.core.plugin.SerenityReporter - Running feature from file:///Users/enes.ercebi/IdeaProjects/yemeksepeti-selenium-automation/src/test/resources/features/Login/Login.feature
+15:24:24.475 [main] INFO   - 
+
+-------------------------------------------------------------------------------------
+     _______. _______ .______       _______ .__   __.  __  .___________.____    ____ 
+    /       ||   ____||   _  \     |   ____||  \ |  | |  | |           |\   \  /   / 
+   |   (----`|  |__   |  |_)  |    |  |__   |   \|  | |  | `---|  |----` \   \/   /  
+    \   \    |   __|  |      /     |   __|  |  . `  | |  |     |  |       \_    _/   
+.----)   |   |  |____ |  |\  \----.|  |____ |  |\   | |  |     |  |         |  |     
+|_______/    |_______|| _| `._____||_______||__| \__| |__|     |__|         |__|    
+                                                                                     
+ News and tutorials at http://www.serenity-bdd.info                                  
+ Documentation at https://wakaleo.gitbooks.io/the-serenity-book/content/             
+ Join the Serenity Community on Gitter: https://gitter.im/serenity-bdd/serenity-core 
+ Serenity BDD Support and Training at http://serenity-bdd.info/#/trainingandsupport  
+-------------------------------------------------------------------------------------
+
+15:24:24.477 [main] INFO   - Test Suite Started: User can login the Yemekpay BO App
+15:24:44.894 [main] INFO  n.s.c.w.d.ChromeDriverProvider - Using automatically driver download
+15:24:45.590 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+15:24:45.607 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/enes.ercebi/.cache/selenium/chromedriver/mac-arm64/138.0.7204.183/chromedriver
+15:24:45.693 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Instantiating driver
+15:24:45.694 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, base.url: https://www.yemeksepeti.com/, browserName: chrome, chrome.driver: /usr/local/bin/chromedriver, driver: chrome, goog:chromeOptions: {args: [--remote-allow-origins=*, --start-maximized], extensions: []}, timeouts.implicitlywait: 20000, wait.for.timeout: 20000}
+15:24:54.468 [main] INFO  base.BasePage - 1 saniye bekliyor
+15:24:55.513 [main] INFO  base.BasePage - 10 saniye bekliyor
+15:25:05.532 [main] INFO  base.BasePage - 1 saniye bekliyor
+15:25:06.674 [main] INFO  base.BasePage - 1 saniye bekliyor
+15:25:07.807 [main] INFO  base.BasePage - 1 saniye bekliyor
+15:25:08.896 [main] INFO  base.BasePage - 1 saniye bekliyor
+15:25:09.967 [main] INFO  base.BasePage - 1 saniye bekliyor
+15:26:16.405 [main] INFO  n.s.c.w.d.ChromeDriverProvider - Using automatically driver download
+15:26:17.079 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+15:26:17.090 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/enes.ercebi/.cache/selenium/chromedriver/mac-arm64/138.0.7204.183/chromedriver
+15:26:17.169 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Instantiating driver
+15:26:17.169 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, base.url: https://www.yemeksepeti.com/, browserName: chrome, chrome.driver: /usr/local/bin/chromedriver, driver: chrome, goog:chromeOptions: {args: [--remote-allow-origins=*, --start-maximized], extensions: []}, timeouts.implicitlywait: 20000, wait.for.timeout: 20000}
+15:26:25.382 [main] INFO  base.BasePage - 1 saniye bekliyor
+15:26:26.427 [main] INFO  base.BasePage - 10 saniye bekliyor
+15:26:36.454 [main] INFO  base.BasePage - 1 saniye bekliyor
+15:26:37.571 [main] INFO  base.BasePage - 1 saniye bekliyor
+15:26:38.711 [main] INFO  base.BasePage - 1 saniye bekliyor
+15:26:39.799 [main] INFO  base.BasePage - 1 saniye bekliyor
+15:26:40.880 [main] INFO  base.BasePage - 1 saniye bekliyor
+15:27:18.210 [main] INFO  i.c.core.plugin.SerenityReporter - Running feature from file:///Users/enes.ercebi/IdeaProjects/yemeksepeti-selenium-automation/src/test/resources/features/Login/Login.feature
+15:27:18.232 [main] INFO   - 
+
+-------------------------------------------------------------------------------------
+     _______. _______ .______       _______ .__   __.  __  .___________.____    ____ 
+    /       ||   ____||   _  \     |   ____||  \ |  | |  | |           |\   \  /   / 
+   |   (----`|  |__   |  |_)  |    |  |__   |   \|  | |  | `---|  |----` \   \/   /  
+    \   \    |   __|  |      /     |   __|  |  . `  | |  |     |  |       \_    _/   
+.----)   |   |  |____ |  |\  \----.|  |____ |  |\   | |  |     |  |         |  |     
+|_______/    |_______|| _| `._____||_______||__| \__| |__|     |__|         |__|    
+                                                                                     
+ News and tutorials at http://www.serenity-bdd.info                                  
+ Documentation at https://wakaleo.gitbooks.io/the-serenity-book/content/             
+ Join the Serenity Community on Gitter: https://gitter.im/serenity-bdd/serenity-core 
+ Serenity BDD Support and Training at http://serenity-bdd.info/#/trainingandsupport  
+-------------------------------------------------------------------------------------
+
+15:27:18.234 [main] INFO   - Test Suite Started: User can login the Yemekpay BO App
+15:27:30.949 [main] INFO  n.s.c.w.d.ChromeDriverProvider - Using automatically driver download
+15:27:31.591 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+15:27:31.603 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/enes.ercebi/.cache/selenium/chromedriver/mac-arm64/138.0.7204.183/chromedriver
+15:27:31.686 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Instantiating driver
+15:27:31.686 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, base.url: https://www.yemeksepeti.com/, browserName: chrome, chrome.driver: /usr/local/bin/chromedriver, driver: chrome, goog:chromeOptions: {args: [--remote-allow-origins=*, --start-maximized], extensions: []}, timeouts.implicitlywait: 20000, wait.for.timeout: 20000}
+15:27:40.635 [main] INFO  base.BasePage - 1 saniye bekliyor
+15:27:41.664 [main] INFO  base.BasePage - 10 saniye bekliyor
+15:27:51.692 [main] INFO  base.BasePage - 1 saniye bekliyor
+15:27:52.824 [main] INFO  base.BasePage - 1 saniye bekliyor
+15:27:53.973 [main] INFO  base.BasePage - 1 saniye bekliyor
+15:27:55.071 [main] INFO  base.BasePage - 1 saniye bekliyor
+15:27:56.145 [main] INFO  base.BasePage - 1 saniye bekliyor
+15:30:57.251 [main] INFO  i.c.core.plugin.SerenityReporter - Running feature from file:///Users/enes.ercebi/IdeaProjects/yemeksepeti-selenium-automation/src/test/resources/features/Login/Login.feature
+15:30:57.276 [main] INFO   - 
+
+-------------------------------------------------------------------------------------
+     _______. _______ .______       _______ .__   __.  __  .___________.____    ____ 
+    /       ||   ____||   _  \     |   ____||  \ |  | |  | |           |\   \  /   / 
+   |   (----`|  |__   |  |_)  |    |  |__   |   \|  | |  | `---|  |----` \   \/   /  
+    \   \    |   __|  |      /     |   __|  |  . `  | |  |     |  |       \_    _/   
+.----)   |   |  |____ |  |\  \----.|  |____ |  |\   | |  |     |  |         |  |     
+|_______/    |_______|| _| `._____||_______||__| \__| |__|     |__|         |__|    
+                                                                                     
+ News and tutorials at http://www.serenity-bdd.info                                  
+ Documentation at https://wakaleo.gitbooks.io/the-serenity-book/content/             
+ Join the Serenity Community on Gitter: https://gitter.im/serenity-bdd/serenity-core 
+ Serenity BDD Support and Training at http://serenity-bdd.info/#/trainingandsupport  
+-------------------------------------------------------------------------------------
+
+15:30:57.277 [main] INFO   - Test Suite Started: User can login the Yemekpay BO App
+15:31:47.313 [main] INFO  n.s.c.w.d.ChromeDriverProvider - Using automatically driver download
+15:31:48.001 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+15:31:48.013 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/enes.ercebi/.cache/selenium/chromedriver/mac-arm64/138.0.7204.183/chromedriver
+15:31:48.094 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Instantiating driver
+15:31:48.094 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, base.url: https://www.yemeksepeti.com/, browserName: chrome, chrome.driver: /usr/local/bin/chromedriver, driver: chrome, goog:chromeOptions: {args: [--remote-allow-origins=*, --start-maximized], extensions: []}, timeouts.implicitlywait: 20000, wait.for.timeout: 20000}
+15:31:57.036 [main] INFO  base.BasePage - 1 saniye bekliyor
+15:31:58.079 [main] INFO  base.BasePage - 1 saniye bekliyor
+15:31:59.116 [main] INFO  base.BasePage - 1 saniye bekliyor
+15:32:00.245 [main] INFO  base.BasePage - 1 saniye bekliyor
+15:32:01.398 [main] INFO  base.BasePage - 1 saniye bekliyor
+15:32:02.483 [main] INFO  base.BasePage - 1 saniye bekliyor
+15:32:03.559 [main] INFO  base.BasePage - 1 saniye bekliyor
+15:34:20.572 [main] INFO  i.c.core.plugin.SerenityReporter - Running feature from file:///Users/enes.ercebi/IdeaProjects/yemeksepeti-selenium-automation/src/test/resources/features/Login/Login.feature
+15:34:20.596 [main] INFO   - 
+
+-------------------------------------------------------------------------------------
+     _______. _______ .______       _______ .__   __.  __  .___________.____    ____ 
+    /       ||   ____||   _  \     |   ____||  \ |  | |  | |           |\   \  /   / 
+   |   (----`|  |__   |  |_)  |    |  |__   |   \|  | |  | `---|  |----` \   \/   /  
+    \   \    |   __|  |      /     |   __|  |  . `  | |  |     |  |       \_    _/   
+.----)   |   |  |____ |  |\  \----.|  |____ |  |\   | |  |     |  |         |  |     
+|_______/    |_______|| _| `._____||_______||__| \__| |__|     |__|         |__|    
+                                                                                     
+ News and tutorials at http://www.serenity-bdd.info                                  
+ Documentation at https://wakaleo.gitbooks.io/the-serenity-book/content/             
+ Join the Serenity Community on Gitter: https://gitter.im/serenity-bdd/serenity-core 
+ Serenity BDD Support and Training at http://serenity-bdd.info/#/trainingandsupport  
+-------------------------------------------------------------------------------------
+
+15:34:20.599 [main] INFO   - Test Suite Started: User can login the Yemekpay BO App
+15:34:44.199 [main] INFO  n.s.c.w.d.ChromeDriverProvider - Using automatically driver download
+15:34:44.860 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+15:34:44.872 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/enes.ercebi/.cache/selenium/chromedriver/mac-arm64/138.0.7204.183/chromedriver
+15:34:44.951 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Instantiating driver
+15:34:44.951 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, base.url: https://www.yemeksepeti.com/, browserName: chrome, chrome.driver: /usr/local/bin/chromedriver, driver: chrome, goog:chromeOptions: {args: [--remote-allow-origins=*, --start-maximized], extensions: []}, timeouts.implicitlywait: 20000, wait.for.timeout: 20000}
+15:34:55.073 [main] INFO  base.BasePage - 1 saniye bekliyor
+15:34:56.097 [main] INFO  base.BasePage - 1 saniye bekliyor
+15:34:57.138 [main] INFO  base.BasePage - 1 saniye bekliyor
+15:34:58.280 [main] INFO  base.BasePage - 1 saniye bekliyor
+15:34:59.392 [main] INFO  base.BasePage - 1 saniye bekliyor
+15:35:00.491 [main] INFO  base.BasePage - 1 saniye bekliyor
+15:35:01.546 [main] INFO  base.BasePage - 1 saniye bekliyor
+15:38:08.823 [main] INFO  i.c.core.plugin.SerenityReporter - Running feature from file:///Users/enes.ercebi/IdeaProjects/yemeksepeti-selenium-automation/src/test/resources/features/Login/Login.feature
+15:38:08.848 [main] INFO   - 
+
+-------------------------------------------------------------------------------------
+     _______. _______ .______       _______ .__   __.  __  .___________.____    ____ 
+    /       ||   ____||   _  \     |   ____||  \ |  | |  | |           |\   \  /   / 
+   |   (----`|  |__   |  |_)  |    |  |__   |   \|  | |  | `---|  |----` \   \/   /  
+    \   \    |   __|  |      /     |   __|  |  . `  | |  |     |  |       \_    _/   
+.----)   |   |  |____ |  |\  \----.|  |____ |  |\   | |  |     |  |         |  |     
+|_______/    |_______|| _| `._____||_______||__| \__| |__|     |__|         |__|    
+                                                                                     
+ News and tutorials at http://www.serenity-bdd.info                                  
+ Documentation at https://wakaleo.gitbooks.io/the-serenity-book/content/             
+ Join the Serenity Community on Gitter: https://gitter.im/serenity-bdd/serenity-core 
+ Serenity BDD Support and Training at http://serenity-bdd.info/#/trainingandsupport  
+-------------------------------------------------------------------------------------
+
+15:38:08.850 [main] INFO   - Test Suite Started: User can login the Yemekpay BO App
+15:38:18.844 [main] INFO  n.s.c.w.d.ChromeDriverProvider - Using automatically driver download
+15:38:19.571 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+15:38:19.589 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/enes.ercebi/.cache/selenium/chromedriver/mac-arm64/138.0.7204.183/chromedriver
+15:38:19.696 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Instantiating driver
+15:38:19.696 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, base.url: https://www.yemeksepeti.com/, browserName: chrome, chrome.driver: /usr/local/bin/chromedriver, driver: chrome, goog:chromeOptions: {args: [--remote-allow-origins=*, --start-maximized], extensions: []}, timeouts.implicitlywait: 20000, wait.for.timeout: 20000}
+15:38:27.794 [main] INFO  base.BasePage - 1 saniye bekliyor
+15:38:28.837 [main] INFO  base.BasePage - 1 saniye bekliyor
+15:38:29.872 [main] INFO  base.BasePage - 1 saniye bekliyor
+15:38:31.021 [main] INFO  base.BasePage - 1 saniye bekliyor
+15:38:32.161 [main] INFO  base.BasePage - 1 saniye bekliyor
+15:38:33.246 [main] INFO  base.BasePage - 1 saniye bekliyor
+15:39:05.431 [main] INFO  n.s.c.w.d.ChromeDriverProvider - Using automatically driver download
+15:39:06.111 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+15:39:06.122 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/enes.ercebi/.cache/selenium/chromedriver/mac-arm64/138.0.7204.183/chromedriver
+15:39:06.202 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Instantiating driver
+15:39:06.202 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, base.url: https://www.yemeksepeti.com/, browserName: chrome, chrome.driver: /usr/local/bin/chromedriver, driver: chrome, goog:chromeOptions: {args: [--remote-allow-origins=*, --start-maximized], extensions: []}, timeouts.implicitlywait: 20000, wait.for.timeout: 20000}
+15:39:43.756 [main] INFO  n.s.c.w.d.ChromeDriverProvider - Using automatically driver download
+15:39:44.428 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+15:39:44.438 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/enes.ercebi/.cache/selenium/chromedriver/mac-arm64/138.0.7204.183/chromedriver
+15:39:44.518 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Instantiating driver
+15:39:44.518 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, base.url: https://www.yemeksepeti.com/, browserName: chrome, chrome.driver: /usr/local/bin/chromedriver, driver: chrome, goog:chromeOptions: {args: [--remote-allow-origins=*, --start-maximized], extensions: []}, timeouts.implicitlywait: 20000, wait.for.timeout: 20000}
+15:40:21.016 [main] INFO  n.s.c.w.d.ChromeDriverProvider - Using automatically driver download
+15:40:21.673 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+15:40:21.684 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/enes.ercebi/.cache/selenium/chromedriver/mac-arm64/138.0.7204.183/chromedriver
+15:40:21.765 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Instantiating driver
+15:40:21.765 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, base.url: https://www.yemeksepeti.com/, browserName: chrome, chrome.driver: /usr/local/bin/chromedriver, driver: chrome, goog:chromeOptions: {args: [--remote-allow-origins=*, --start-maximized], extensions: []}, timeouts.implicitlywait: 20000, wait.for.timeout: 20000}
+15:41:02.157 [main] INFO  n.s.c.w.d.ChromeDriverProvider - Using automatically driver download
+15:41:02.857 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+15:41:02.869 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/enes.ercebi/.cache/selenium/chromedriver/mac-arm64/138.0.7204.183/chromedriver
+15:41:02.951 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Instantiating driver
+15:41:02.951 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, base.url: https://www.yemeksepeti.com/, browserName: chrome, chrome.driver: /usr/local/bin/chromedriver, driver: chrome, goog:chromeOptions: {args: [--remote-allow-origins=*, --start-maximized], extensions: []}, timeouts.implicitlywait: 20000, wait.for.timeout: 20000}
+15:41:12.350 [main] INFO  base.BasePage - 1 saniye bekliyor
+15:41:13.381 [main] INFO  base.BasePage - 1 saniye bekliyor
+15:41:14.421 [main] INFO  base.BasePage - 1 saniye bekliyor
+15:41:15.574 [main] INFO  base.BasePage - 1 saniye bekliyor
+15:41:16.718 [main] INFO  base.BasePage - 1 saniye bekliyor
+15:41:17.800 [main] INFO  base.BasePage - 1 saniye bekliyor
+15:41:58.275 [main] INFO  n.s.c.w.d.ChromeDriverProvider - Using automatically driver download
+15:41:58.990 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+15:41:59.008 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/enes.ercebi/.cache/selenium/chromedriver/mac-arm64/138.0.7204.183/chromedriver
+15:41:59.087 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Instantiating driver
+15:41:59.087 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, base.url: https://www.yemeksepeti.com/, browserName: chrome, chrome.driver: /usr/local/bin/chromedriver, driver: chrome, goog:chromeOptions: {args: [--remote-allow-origins=*, --start-maximized], extensions: []}, timeouts.implicitlywait: 20000, wait.for.timeout: 20000}
+15:42:11.370 [main] INFO  base.BasePage - 1 saniye bekliyor
+15:42:12.397 [main] INFO  base.BasePage - 1 saniye bekliyor
+15:42:13.424 [main] INFO  base.BasePage - 1 saniye bekliyor
+15:42:14.566 [main] INFO  base.BasePage - 1 saniye bekliyor
+15:42:16.056 [main] INFO  base.BasePage - 1 saniye bekliyor
+15:42:17.327 [main] INFO  base.BasePage - 1 saniye bekliyor
+15:42:18.389 [main] INFO  base.BasePage - 1 saniye bekliyor
+15:42:19.402 [main] INFO  base.BasePage - 200 saniye bekliyor
+15:48:24.140 [main] INFO  n.s.c.w.d.ChromeDriverProvider - Using automatically driver download
+15:48:24.866 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+15:48:24.888 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/enes.ercebi/.cache/selenium/chromedriver/mac-arm64/138.0.7204.183/chromedriver
+15:48:24.969 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Instantiating driver
+15:48:24.969 [main] DEBUG n.s.c.w.d.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, base.url: https://www.yemeksepeti.com/, browserName: chrome, chrome.driver: /usr/local/bin/chromedriver, driver: chrome, goog:chromeOptions: {args: [--remote-allow-origins=*, --start-maximized], extensions: []}, timeouts.implicitlywait: 20000, wait.for.timeout: 20000}
+15:48:40.239 [main] INFO  base.BasePage - 1 saniye bekliyor
+15:48:41.270 [main] INFO  base.BasePage - 1 saniye bekliyor
+15:48:42.311 [main] INFO  base.BasePage - 1 saniye bekliyor
+15:48:43.436 [main] INFO  base.BasePage - 1 saniye bekliyor
+15:48:44.583 [main] INFO  base.BasePage - 1 saniye bekliyor
+15:48:45.681 [main] INFO  base.BasePage - 1 saniye bekliyor
+15:48:46.757 [main] INFO  base.BasePage - 1 saniye bekliyor
+15:48:47.763 [main] INFO  base.BasePage - 200 saniye bekliyor

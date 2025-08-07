@@ -36,13 +36,7 @@ public class LoginSteps {
     public void userSeeOtpTimer() {
         loginpagesteps.userSeeOtpTimer();
     }
-
-    @Given("User opens Yemeksepeti URL")
-    public void userOpensYemeksepetiURL() {
-        
     }
 
-    @And("User see Yemeksepeti Text")
-    public void userSeeYemeksepetiText() {
-    }
-}
+
+

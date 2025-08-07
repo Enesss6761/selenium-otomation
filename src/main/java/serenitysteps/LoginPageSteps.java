@@ -1,10 +1,13 @@
 package serenitysteps;
-
+import net.thucydides.core.annotations.Steps;
 import base.BasePage;
 import net.thucydides.core.annotations.Step;
+import org.fluentlenium.core.annotation.Page;
 import pages.LoginPage;
 public class LoginPageSteps {
+    @Page
     LoginPage loginPage;
+    @Page
     BasePage basePage;
 
     @Step("User logins from homepage")
@@ -27,12 +30,11 @@ public class LoginPageSteps {
 
     @Step("User click resend otp button")
     public void userClickResendOtpButton() {
-        basePage.waitBySeconds(60);
-        loginPage.resendSubmit();
-        basePage.waitBySeconds(2);
+        loginPage.waitForResendOtpButton();  // Buton tıklanabilir olana kadar bekle
+        loginPage.resendSubmit();             // Butona tıkla
     }
     @Step("User see otp timer")
     public void userSeeOtpTimer()  {
-        loginPage.otpTimerIsDisplay();
+        loginPage.verifyOtpTimerIsDisplayed();
     }
 }

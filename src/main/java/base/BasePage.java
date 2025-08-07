@@ -1,30 +1,37 @@
 package base;
-
+import net.thucydides.core.util.EnvironmentVariables;
 import lombok.extern.slf4j.Slf4j;
 import net.serenitybdd.core.Serenity;
+import org.openqa.selenium.support.ui.WebDriverWait;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import java.time.Duration;
 import net.serenitybdd.core.environment.EnvironmentSpecificConfiguration;
 import net.serenitybdd.core.exceptions.NoSuchElementException;
-import net.serenitybdd.core.pages.PageObject;
 import net.serenitybdd.core.pages.WebElementFacade;
-import net.thucydides.core.util.EnvironmentVariables;
 import org.junit.Assert;
 import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
-import org.openqa.selenium.support.ui.ExpectedConditions;
-import org.openqa.selenium.support.ui.WebDriverWait;
-
-import java.time.Duration;
 import java.util.List;
 import java.util.Random;
 
 import static utilities.Storage.getScenario;
+import net.thucydides.core.pages.PageObject;
+
+
 
 @Slf4j
 public class BasePage extends PageObject {
-    private EnvironmentVariables env;
+
+
 
     public Boolean isElementDisplay(By by) {
         return getElement(by).isPresent();
+    }
+
+
+    protected EnvironmentVariables env() {
+        return (EnvironmentVariables) Serenity.getCurrentSession().get("env");
     }
 
     public void click(By by) {
@@ -35,7 +42,7 @@ public class BasePage extends PageObject {
         try {
             return findAll(by);
         } catch (NoSuchElementException e) {
-            e.getMessage();
+            log.error("Element bulunamadı: ", e);
         }
         return null;
     }
@@ -44,7 +51,7 @@ public class BasePage extends PageObject {
         try {
             return find(by);
         } catch (NoSuchElementException e) {
-            e.getMessage();
+            log.error("Element bulunamadı: ", e);
         }
         return null;
     }
@@ -74,14 +81,20 @@ public class BasePage extends PageObject {
                 actualText, expectedText);
     }
 
-    public void controlUrl(String urlContains, String expectedUrl) throws Exception {
-        Thread.sleep(3000);
-        WebDriverWait wait = new WebDriverWait(Serenity.getDriver(), Duration.ofSeconds(2));
+    public void controlUrl(String urlContains, String expectedUrlKey) throws Exception {
+        WebDriverWait wait = new WebDriverWait(Serenity.getDriver(), Duration.ofSeconds(5));
         wait.until(ExpectedConditions.urlContains(urlContains));
-        String url = Serenity.getDriver().getCurrentUrl();
-        String expected = EnvironmentSpecificConfiguration.from(env).getProperty(expectedUrl);
-        assertTextEquals(url, expected);
+
+        String currentUrl = Serenity.getDriver().getCurrentUrl();
+
+        // 'env()' EnvironmentVariables döndüren bir yardımcı metot olmalı
+        String expectedUrl = EnvironmentSpecificConfiguration
+                .from(env())
+                .getProperty(expectedUrlKey);
+
+        assertTextEquals(currentUrl, expectedUrl);
     }
+
 
     public String typeRandomValueFromDataLists(By dataTableValuesLocator, By inputValueLocator){
         List<WebElementFacade> dataTableLists = getElements(dataTableValuesLocator);
@@ -151,4 +164,12 @@ public class BasePage extends PageObject {
                 + "evt.initMouseEvent('click',true, true, window, 0, 0, 0, 0, 0, false, false, false, false, 0,null);"
                 + "arguments[0].dispatchEvent(evt);", find(by));
     }
+    public void waitForElementToBeClickable(By locator) {
+        WebDriverWait wait = new WebDriverWait(getDriver(), Duration.ofSeconds(30));
+        wait.until(ExpectedConditions.elementToBeClickable(locator));
+    }
+
+
+
+
 }

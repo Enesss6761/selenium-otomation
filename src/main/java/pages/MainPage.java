@@ -1,7 +1,10 @@
 package pages;
 
 import base.BasePage;
+import net.thucydides.core.util.EnvironmentVariables;
 import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+
 public class MainPage extends BasePage {
     By mainPageUserName = By.cssSelector(".MuiTypography-noWrap");
     By mainPageProfilIcon=By.cssSelector("[data-testid='AccountCircleIcon']");
@@ -12,7 +15,8 @@ public class MainPage extends BasePage {
     By profilPageLogout = By.cssSelector("button:nth-of-type(4)");
     By mainPageDashboardPendingApprovalsShowAll = By.cssSelector(".MuiGrid-grid-lg-7 .MuiButtonBase-root");
     By mainPageDashboardLastLoginAttemptsShowAll = By.cssSelector(".MuiGrid-grid-lg-5 .MuiButtonBase-root");
-    By mainPageDashboardLastLoginAttemptsList = By.cssSelector(".css-1uu02n5");
+    public By mainPageDashboardLastLoginAttemptsList = By.cssSelector(".css-1uu02n5");
+
 
     public void checkAutomationUserText() {
         String userNameText = getText(mainPageUserName);
@@ -57,8 +61,8 @@ public class MainPage extends BasePage {
     public void mainPageDashboardLastLoginAttemptsShowAllButton()  {
         click(mainPageDashboardLastLoginAttemptsShowAll);
     }
-    public void mainPageDashboardLastLoginAttemptsList()  {
-        isElementDisplay(mainPageDashboardLastLoginAttemptsList);
+    public void verifyLastLoginAttemptsListDisplayed() {
+        assertTrue(isElementDisplay(mainPageDashboardLastLoginAttemptsList), "Son giriş denemeleri listesi görünmeli");
     }
     }
 

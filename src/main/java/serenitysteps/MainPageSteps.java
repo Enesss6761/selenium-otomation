@@ -2,12 +2,16 @@ package serenitysteps;
 
 import base.BasePage;
 import net.thucydides.core.annotations.Step;
+import net.thucydides.core.annotations.Steps;
 import pages.MainPage;
-import pages.WelcomePage;
+import pages.HomePage;
 public class MainPageSteps {
+    @Steps
     MainPage mainPage;
+    @Steps
     BasePage basePage;
-    WelcomePage welcomePage;
+    @Steps
+    HomePage welcomePage;
 
     @Step("User welcome to MainPage")
     public void userWelcomeToMainPage() {
@@ -68,9 +72,11 @@ public class MainPageSteps {
     }
     @Step("User see last login attempts list")
     public void userSeeLastLoginAttemptsList() {
-            mainPage.mainPageDashboardLastLoginAttemptsList();
+            mainPage.verifyLastLoginAttemptsListDisplayed();
     }
-}
+    }
+
+
 
 
 
