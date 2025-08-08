@@ -9,7 +9,6 @@ Feature: User can login the Yemekpay BO App
   Scenario: Login to Yemeksepeti
     Given User opens Yemeksepeti URL
     And User see Yemeksepeti Text
-    And User see Yemeksepeti Text
     When User clicks Login Button
     And User sees "Giriş Yap" Button Popup
     And User sees "Kayıt Ol" Button Pop
