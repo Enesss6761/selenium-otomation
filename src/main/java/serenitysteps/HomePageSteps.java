@@ -66,6 +66,13 @@ public class HomePageSteps {
     public void clickLoginWithPasswordButton() {
         homepage.clickLoginWithPasswordButton();
     }
+    @Step("Verify error message displayed: {0}")
+    public void verifyErrorMessageDisplayed(String expectedMessage) {
+        homepage.assertErrorMessageDisplayed(expectedMessage);
+    }
+
+
+
 /// /////////////////////////////////////////////////////////////////////
     @Step("User enters postal code: {0}")
     public void enterPostalCode(String postalCode) {
@@ -93,6 +100,23 @@ public class HomePageSteps {
     @Step("User clicks confirm cart button")
     public void userClicksConfirmCartButton() {
         homepage.clickConfirmCartButton();
+    }
+    /// /////////////////////////////
+    @Step("User clicks Google button")
+    public void userClicksGoogleButton() {
+        homepage.clickGoogleButton();
+    }
+
+    @Step("Select account in login iframe")
+    public void selectAccountInIframe() {
+        homepage.waitAndSwitchToLoginIframe();
+        homepage.clickEmailElement();
+        homepage.switchToMainContent();
+    }
+
+    @Step("Check if user is logged in")
+    public boolean isLoggedIn() {
+        return homepage.isLoggedIn();
     }
 
 

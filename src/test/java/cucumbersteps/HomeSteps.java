@@ -68,6 +68,11 @@ public class HomeSteps {
     public void userClicksOnLoginWithPasswordButton() {
         homePageSteps.clickLoginWithPasswordButton();
     }
+
+    @Then("User sees error message {string}")
+    public void userSeesErrorMessage(String expectedMessage) {
+        homePageSteps.verifyErrorMessageDisplayed(expectedMessage);
+    }
 //adres alma
 
     @Then("User enters postal code {string}")
@@ -97,6 +102,21 @@ public class HomeSteps {
     @And("User clicks confirm cart button")
     public void userClicksConfirmCartButton() {
         homePageSteps.userClicksConfirmCartButton();
+    }
+/// //////////////////////////////////////////////
+    @And("User clicks Google button")
+     public void userClicksGoogleButton() {
+        homePageSteps.userClicksGoogleButton();
+}
+    @When("the user selects an account from the login iframe")
+    public void user_selects_account_from_iframe() {
+        homePageSteps.selectAccountInIframe();
+    }
+    @Then("the user is logged in successfully")
+    public void user_is_logged_in_successfully() {
+        if (!homePageSteps.isLoggedIn()) {
+            throw new AssertionError("Login başarısız!");
+        }
     }
 
 

@@ -3,6 +3,9 @@ package pages;
 import base.BasePage;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.WebDriverWait;
+import java.time.Duration;
 
 public class HomePage extends BasePage {
     By loginButton = By.xpath("//button[contains(@class, 'bds-c-btn-secondary') and contains(@class, 'bds-c-btn--size-small') and .//span[contains(text(),'Giriş Yap')]]");
@@ -16,6 +19,12 @@ public class HomePage extends BasePage {
     By addToCartButton = By.xpath("//button[contains(@class,'bds-c-btn bds-c-btn-primary bds-c-btn--size-regular bds-is-idle bds-c-btn--layout-full-width-primary zi-surface-base item-modifier-add-to-cart-button')]");
     By confirmCartButton = By.xpath("//button[contains(@data-testid,'cart-summary-checkout-button')]");
     By cookieAcceptButton = By.xpath("//button[@data-testid='uc-accept-all-button']");
+    By errorMessageLocator = By.xpath("//div[contains(@class, 'input-box')]//div[contains(@class, 'bds-c-btn-circular-cursor')]");
+    By googleButton = By.xpath("//div[@class='box-flex welcome-view__button-google pb-sm']");
+    By loginIframe = By.xpath("//iframe[@id='gsi_232921_446565']");
+    By emailElement = By.xpath("//div[@class='pGzURd']");
+    By userAvatar = By.xpath("//div[@data-testid='account-menu']//button[@id='menu-selector']");
+
 
 
 
@@ -24,12 +33,11 @@ public class HomePage extends BasePage {
         return this;
     }
 
-    public void clickAcceptCookies() { {
-        waitBySeconds(200);
-        find(cookieAcceptButton).waitUntilVisible().click();
-              }
+    public void clickAcceptCookies() {
+        if (find(cookieAcceptButton).findElements(cookieAcceptButton).size() > 0) {
+            find(cookieAcceptButton).waitUntilVisible().click();
+        }
     }
-
 
 
     public void isYemeksepetiTextDisplayed() {
@@ -87,6 +95,15 @@ public class HomePage extends BasePage {
         find(loginWithPasswordButton).waitUntilClickable().click();
         waitBySeconds(1);
     }
+
+    public void assertErrorMessageDisplayed(String expectedMessage) {
+        String actualMessage = getText(errorMessageLocator);
+        assertTrue(actualMessage.contains(expectedMessage),
+                "'" + expectedMessage + "' mesajı görünmeli, ama şu çıktı: " + actualMessage);
+    }
+
+
+
 /// //////////////////////////////////////////
 
 public void enterPostalCode(String postalCode) {
@@ -117,6 +134,35 @@ public void enterPostalCode(String postalCode) {
     public void clickConfirmCartButton() {
         find(confirmCartButton).waitUntilClickable().click();
     }
+/// ///////////////////////////////////////////////////////
+    public void clickGoogleButton() {
+        find(googleButton).waitUntilClickable().click();
+}
+    public void waitAndSwitchToLoginIframe() {
+        WebDriverWait wait = new WebDriverWait(getDriver(), Duration.ofSeconds(10));
+        wait.until(ExpectedConditions.frameToBeAvailableAndSwitchToIt(loginIframe));
+    }
+
+    public void clickEmailElement() {
+        WebDriverWait wait = new WebDriverWait(getDriver(), Duration.ofSeconds(10));
+        WebElement element = wait.until(ExpectedConditions.elementToBeClickable(emailElement));
+        element.click();
+    }
+
+    public void switchToMainContent() {
+        getDriver().switchTo().defaultContent();
+    }
+
+    public boolean isLoggedIn() {
+        try {
+            WebDriverWait wait = new WebDriverWait(getDriver(), Duration.ofSeconds(10));
+            WebElement element = wait.until(ExpectedConditions.visibilityOfElementLocated(userAvatar));
+            return element.isDisplayed();
+        } catch (Exception e) {
+            return false;
+        }
+    }
+
 
 
     }
