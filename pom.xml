@@ -14,7 +14,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <serenity.version>3.2.0</serenity.version>
         <webdriver.driver>chrome</webdriver.driver>
-        <webdriver.base.url>https://staging-backoffice-ui.yemekpay.com/</webdriver.base.url>
+        <webdriver.base.url>https://www.yemeksepeti.com/</webdriver.base.url>
     </properties>
 
     <repositories>
